@@ -1,0 +1,1130 @@
+,State,City,Event,Latitude,Longitude,Date
+0,CT,Roxbury,Roxbury Marathon,41.5487,-73.3137,11/9/2019
+1,MD,Darlington,MDT Challenge,39.6705,-76.2054,11/9/2019
+2,NH,Bennington,The Vertical Challenge,43.0115,-71.8796,11/9/2019
+3,MA,Winchester/Lexington,TARCkey Trot,42.4418,-71.1742,11/16/2019
+4,NY,Union Vale,Hot Iron Half Marathon Trail Race,41.6504,-73.7012,11/17/2019
+5,CT,Washington Depot,Steep Rock Trail Series-Steep Rock Half Marathon,41.6212,-73.325,11/17/2019
+6,CT,Southington,CT Trailmixers Fall Fling 400 Trail Race,41.5891,-72.8398,11/24/2019
+7,CT,Roxbury,Roxbury Thanksgiving Day Race,41.5495,-73.314,11/28/2019
+8,NJ,West Orange,Squatchy Leftovers 5K & 10K,40.765,-74.2749,11/30/2019
+9,NJ,Moutainside,Beat The Bumble,40.6852,-74.372,12/1/2019
+10,MA,Marlborough,Tough 10 Mile Turkey Trot,42.3551,-71.5246,12/1/2019
+11,NJ,Branchville,Frozen Fools,41.1803,-74.7879,12/7/2019
+12,MA,Stoneham,TARC Fells Trail Winter Ultra,42.4683,-71.11,12/7/2019
+13,CT,Stratford,Frosty Forest 5K,41.252,-73.1278,12/14/2019
+14,PA,Leesport,Naked Nick,40.3873,-76.0417,12/14/2019
+15,MA,Springfield,Seth's Fat Ass 50K,42.0847,-72.5654,12/21/2019
+16,NJ,Hewitt,Squatchayanda Ugly Sweater Night Trail Run,41.1957,-74.3919,12/21/2019
+17,CT,Hamden,The West Rock Winter Fat Ass Extravaganza,41.3601,-72.9675,12/28/2019
+18,DE,Felton,Angela Ivory Memorial 50K,38.9854,-75.5366,1/25/2020
+19,NJ,West Orange,Frosty Fat Sass,40.7652,-74.2753,1/25/2020
+20,MA,Westwood,TARCtic Frozen Yeti Trail Races,42.2341,-71.228,2/1/2020
+22,NJ,Mahwah,Squatchy Onesie Fest “5K-Marathon”,41.0786,-74.1873,2/15/2020
+23,PA,Leesport,Naked Bavarian,40.3866,-76.0431,2/29/2020
+24,VT,Rupert,Merck Forest Snowshoe Ultra,43.274,-73.1724,3/1/2020
+25,NJ,Branchville,Double Squatch,41.2022,-74.7735,3/14/2020
+27,MD,Havre de Grace,HAT Run 50k,39.6005,-76.1376,3/21/2020
+28,NJ,Delaware Water Gap,The MT. TAMMANY 10!,40.9704,-75.126,3/21/2020
+29,MA,Westwood,TARC to Hale and Back,42.2341,-71.228,3/21/2020
+30,PA,Leesport,Naked Prussian,40.3872,-76.0419,3/28/2020
+31,CT,Ansonia,Six Hours at The Reservoir,41.3591,-73.0653,3/28/2020
+32,NY,Lagrangeville,Spring On The Trails Endurance Runs,41.6756,-73.778,3/29/2020
+33,VT,Pomfret,Runamuck 50k,43.6651,-72.5432,4/4/2020
+34,NY,Beacon,Breakneck Point Trail Runs,41.4887,-73.9634,4/11/2020
+35,NJ,West Orange,The Last Squatch Standing,40.7652,-74.275,4/11/2020
+36,CT,Bloomfield,Traprock 50,41.8381,-72.7846,4/18/2020
+37,CT,Stratford,Enchanted Forest Ultra Run,41.252,-73.1278,4/18/2020
+38,NY,East Islip,Shore2Shore,40.8862,-73.2573,4/18/2020
+39,PA,Philadelphia,Philadelphia Trail Marathon,40.0465,-75.2167,4/18/2020
+40,MA,Weston,TARC Spring Classic,42.3802,-71.3198,4/25/2020
+41,NY,Lagrangeville,Red Wing After Hours 8k,41.6725,-73.7599,4/25/2020
+42,MA,Ashburnham,TARC Wapack and Back,42.6959,-71.9044,5/2/2020
+43,MA,Pittsfield/Hancock,Berry Pond Hill Climb,42.4933,-73.2989,5/2/2020
+44,PA,Philadelphia,Dirty German Endurance Fest,40.0886,-75.0678,5/9/2020
+45,NH,Manchester,Manchester 2 Monadnock Ultramarathon,42.9866,-71.4622,5/9/2020
+46,CT,New Haven,The Blue 2 Blue Challenge,41.3306,-72.9597,5/9/2020
+47,CT,Southbury,T2T Racing Kettletown State Park Challenge,41.4249,-73.207,5/16/2020
+48,PA,Mohnton,Charlie Horse Trail Half-Marathon and 5K,40.2257,-75.9261,5/23/2020
+49,CT,Berlin,Run Ragged,41.6283,-72.8041,5/30/2020
+50,MA,Alford,Alford Springs 6-Hour,42.2483,-73.445,5/30/2020
+51,PA,Philadelphia,1/2 Sauer 1/2 Kraut,40.0647,-75.0392,6/13/2020
+52,NY,North Salem,Mountain Lakes Backyard Ultra,41.3053,-73.5711,6/19/2020
+53,MA,Pittsfield,Vegan Power 50K,42.4834,-73.3012,6/27/2020
+54,CT,Stratford,Forbidden Forest 30 Hour Ultra Run,41.2459,-73.1247,6/27/2020
+55,NJ,Columbus,Midnight Squatchapalooza,40.0409,-74.7349,6/28/2020
+56,MA,Windsor,Notchview Ultra,42.5049,-73.0375,7/2/2020
+59,NY,Lagrangeville,Red Wing Trail Challenge,41.6784,-73.7579,7/5/2020
+60,VT,Bennington,Ethan Allen 24,42.8863,-73.1913,7/11/2020
+61,NJ,Millburn,Fat Sass Switchback Challenge,40.7268,-74.3044,7/11/2020
+62,MA,Milton,TARC Blue Hills Skyline Trail Run,42.2203,-71.1186,7/12/2020
+63,MA,Egremont,Jug End Loop Ultra,42.1484,-73.4502,7/25/2020
+64,MA,Medfield,TARC Summer Classic,42.1586,-71.3049,8/8/2020
+65,MA,Pittsfield,Sweltering Summer Ultra,42.4412,-73.2645,8/8/2020
+66,VT,East Dorset,Lost Cat 50k,43.2392,-73.0079,8/22/2020
+67,VT,Dorset,Dorset Hollow Road Race,43.2693,-73.0976,8/23/2020
+68,NY,Rosendale,Shawangunk Ridge Trail Run,41.8481,-74.0883,9/11/2020
+69,PA,Milford,Water Gap 50k and Half,41.3097,-74.7956,9/12/2020
+70,CT,Stratford,Forgotten Forest Ultra Run,41.2481,-73.1279,9/19/2020
+71,VT,East Dorset,Beebe Farm 48,43.2532,-73.0072,9/25/2020
+73,MA,Carlisle,TARC Fall Classic,42.5587,-71.354,10/3/2020
+74,PA,Reading,Blues Cruise,40.3892,-76.042,10/4/2020
+75,NJ,Ong's Hat,Batona Trail Races,39.9118,-74.62,10/10/2020
+76,NH,Brookline,TARC Ghost Train Trail Races,42.8244,-71.6471,10/17/2020
+78,NY,Lagrangeville,Fall Back into the Trails 10K & 50K,41.6728,-73.7599,11/1/2020
+79,NH,New Boston,The Hamsterwheel,42.9821,-71.6824,11/7/2020
+80,MD,Elkton,Phunt 25K/50K Trail Race,39.7004,-75.858,1/16/2021
+190,NH,North Conway,Spring Run Off,44.0515,-71.1276,4/4/2020
+195,NY,Fayetteville,English's Ridge Rumble,43.0582,-75.9714,4/18/2020
+200,VT,Pittsfield,Peak Blood Root Ultra,43.7631,-72.8163,4/30/2020
+202,NH,Tamworth,White Lake Ultras,43.8359,-71.2087,5/2/2020
+208,ME,Turner,Riverlands 100,44.2612,-70.1874,5/9/2020
+212,VT,,INFINITUS,43.8896,-73.0101,5/21/2020
+218,NH,Tamworth,Chocorua Mountain Race,43.8943,-71.2534,6/6/2020
+231,VT,Goshen,Goshen Gallop,43.8906,-73.0092,7/18/2020
+240,NH,Stark,Kilkenny Ridge Race,44.5971,-71.3676,9/19/2020
+241,ME,Windham,Firebird Trail Races,43.7919,-70.3568,9/19/2020
+245,VT,Bradford,Devil's Den ultra and 5K,44.0321,-72.1604,10/9/2020
+659,NY,Ithaca,Cayuga Trails,42.3989,-76.5681,5/30/2020
+668,NY,Elmira,The Monster Brant Hill Challenge,42.0515,-76.7376,6/28/2020
+679,PA,Troy,Smallfoot Trail Fest,41.8053,-76.667,7/25/2020
+1680,NY,Painted Post,The Last Rebel Survivor,42.2291,-77.1237,11/10/2019
+1913,PA,Wellsboro,Hills Creek Endurance Challenge,41.8085,-77.1958,5/9/2020
+14427,ME,Cutler,Bold Coast Bash Trail Race - 10mi/20mi,44.6987,-67.1578,11/17/2019
+19596,QC,Denholm,Mad Trapper Backyard Ultra,45.7873,-75.9132,6/20/2020
+27335,PA,Glen Rock,Hex Hollow Half,39.8319,-76.6554,11/24/2019
+27433,MD,Kingsville,Little Gunpowder 50K,39.4622,-76.3908,11/23/2019
+27437,MD,Sparks,NCR Marathon,39.5561,-76.6252,11/30/2019
+27570,DE,Laurel,Trap Pond,38.5242,-75.4781,4/19/2020
+27615,PA,Lock Haven,Boulder Beast,41.1341,-77.4201,9/19/2020
+27622,PA,Waterville,Little Pine 5 Miler,41.3628,-77.3563,10/17/2020
+27624,PA,Waterville,Call of the Wilds Mountain Fest,41.364,-77.3562,10/18/2020
+28502,MD,Upper Marlboro,Rosaryville Veterans Day 50k,38.7808,-76.7992,11/9/2019
+28517,MD,Millersville,Jingle Bell Hayride at Kinder Farm Park,39.1001,-76.5824,12/7/2019
+28523,PA,Huntingdon,Greenwood Furnace Snowfest 5-miler,40.6507,-77.7542,1/18/2020
+28528,MD,Pocomoke,The DUC,38.1348,-75.4913,2/7/2020
+28529,MD,Pocomoke City,The Algonquin 50K,38.1219,-75.4949,2/8/2020
+28535,MD,Snow Hill,Blades Trail Race,38.1179,-75.467,3/15/2020
+28539,MD,Boonesboro,Greenbrier Ultra's,39.54,-77.6161,3/27/2020
+28545,PA,Lock Haven,Eagleton Trail Challenge,41.1785,-77.5495,4/11/2020
+28548,PA,North Bend,Hyner Trail Challenge,41.3235,-77.6425,4/18/2020
+28550,MD,Frederick,The Vertical Playground,39.5872,-77.4361,4/18/2020
+28558,MD,Derwood,Farm Park Challenge,39.1043,-77.1609,5/2/2020
+28560,PA,Huntingdon,Greenwood Furnace Trail Challenge,40.6375,-77.8284,5/3/2020
+28564,MD,Lusby,Frozen Heart 50K,38.3956,-76.4293,5/16/2020
+28570,PA,Slate Run,Slate Run 25K,41.4566,-77.5123,6/6/2020
+28573,PA,North Bend,Little Loggers Trail Fest,41.3237,-77.6426,6/20/2020
+28582,MD,Frederick,Catoctin 50k Trail Run & Half Cat,39.5875,-77.436,7/11/2020
+28586,PA,North Bend,Sproul 10k,41.3234,-77.6427,7/18/2020
+28589,MD,Salisbury,On The Bacon Trail - The Naylor Mill Trail 7k,38.4091,-75.5931,8/7/2020
+28592,PA,North Bend,Hyner Half,41.3745,-77.625,8/22/2020
+28600,MD,Salisbury,The Pemberton 24,38.3607,-75.5994,9/25/2020
+29155,MD,Knoxville,C&O Canal 100,39.3571,-77.7361,4/25/2020
+29167,MD,Sharpsburg,Cow Bone Trail Run 6-12-24 Hour,39.5039,-77.7854,5/23/2020
+30447,NY,Naples,Muddy Sneaker 20K Trail Run,42.6347,-77.3361,4/18/2020
+30672,NY,Naples,Ontario Summit Trail Races,42.7038,-77.4099,6/27/2020
+30690,NY,Naples,Twisted Branch Trail Run,42.7082,-77.4154,8/22/2020
+32799,MD,Thurmont,Bobcat Trail Run 11 Mile,39.5876,-77.4358,11/7/2020
+32835,VA,Multiple Cities,Virginia Tour Challenge,38.6371,-77.3111,3/28/2020
+33502,PA,Hollidaysburg,The Dirty Kiln Trail Race and Half-Marathon,40.4834,-78.2847,4/11/2020
+33597,MD,Hancock,Western Maryland Rail Trail,39.6985,-78.1823,4/5/2020
+33645,WV,Harper's Ferry,Miner's Lady 8-Hour,39.1632,-77.8316,7/25/2020
+33654,PA,Claysburg,Rock N The Knob Trail Challenge,40.2966,-78.5424,9/12/2020
+33974,NY,Pittsford,0 Degree Winter Trail Festival,43.0455,-77.4813,12/7/2019
+34027,NY,Castile,Many On The Genny,42.5848,-78.0435,6/20/2020
+34047,NY,Honeoye Falls,The Mighty Mosquito 99 Mile Relay,43.0299,-77.5699,8/8/2020
+35272,VA,Triangle,Devil Dog Ultras,38.5763,-77.4167,12/7/2019
+35278,VA,Williamsburg,Merry Maniac Duathlon 5m/10m/2.5m,37.2707,-76.7075,12/28/2019
+35282,VA,Spotsylvania,ICY-8,38.1133,-77.8315,2/1/2020
+35287,VA,Triangle,No Man's 50K,38.5586,-77.3429,3/7/2020
+35288,VA,Williamsburg,March Maniac 11 hour Endurance Run,37.3244,-76.7634,3/7/2020
+35295,VA,Williamsburg,Singletrack Maniac 50k,37.3375,-76.8041,3/28/2020
+35296,VA,Green Bay,Dogwood Ultra Marathons,37.3809,-77.5703,3/28/2020
+35303,VA,Virginia Beach,Long Creek 60k,36.8906,-76.0172,4/5/2020
+35314,VA,Triangle,24 Hour - Adventure Trail,38.5802,-77.4137,4/25/2020
+35315,VA,Hampton,Virginia Run for Cancer,37.0632,-76.4273,4/25/2020
+35317,VA,Triangle,Chompawamsic 50K and 100K Challenge,38.5814,-77.3672,4/25/2020
+35329,VA,Fort Valley,Old Dominion,38.8729,-78.5233,6/6/2020
+35332,VA,Triangle,OSS/CIA,38.5586,-77.3427,6/13/2020
+35342,VA,Williamsburg,Night Owl 9k,37.2707,-76.7075,7/18/2020
+35354,MD,Frostburg,GAP Marathon and Half Marathon,39.6589,-78.9213,10/7/2020
+36544,NC,Corolla,Tarheel Ultra,36.3947,-75.8304,11/30/2019
+36559,NC,Corolla ,Light 2 Light 50,36.3766,-75.831,2/1/2020
+39901,PA,Grassflat,Red Moshannon Downriver Race,40.9931,-78.081,3/28/2020
+41690,NY,Rochester,Goose Adventure Racing Snowshoe Series,43.161,-77.6109,1/4/2020
+41694,NY,Lockport,Beast of Burden - Winter,43.1852,-78.6664,2/8/2020
+41696,NY,North Chilli,Cast-a-Shadow Relay and Solo Snowshoe Event,43.0721,-77.8076,2/8/2020
+41701,NY,Rochester,Trail Methods Last Runner Standing,43.2336,-77.6757,3/7/2020
+41740,NY,Spencerport,ALS Trail Races,43.1846,-77.8752,6/6/2020
+41761,NY,Lockport,Beast of Burden - Summer,43.1845,-78.6692,8/1/2020
+41764,PA,Cooksburg,Cook Forest 25k Trail Challenge,41.3246,-79.1928,8/15/2020
+41769,PA,Brookville,Baker Trail UltraChallenge North,41.1582,-79.0857,8/29/2020
+41985,OH,Ashtabula,Olde 96er 200 Mile Ultra,41.8651,-80.7898,4/16/2020
+41989,OH,Willoughby,Lakeshore Mini Ultra,41.6971,-81.3967,4/25/2020
+41990,OH,Kirtland,O24,41.5894,-81.3704,5/2/2020
+42009,PA,Pittsburgh,FAAP FALL CLASSIC,40.5878,-79.9893,9/13/2020
+42011,OH,Cleveland,Doan Creek Trail Run,41.4893,-81.5824,10/3/2020
+42015,OH,Akron,Regal Beagle Ultra,41.1791,-81.6306,11/23/2019
+42027,OH,CANAL FULTON,Get Lucky 50/50,40.8881,-81.5981,3/21/2020
+42041,OH,Dover,Running with my Gnomies,40.5643,-81.3964,5/9/2020
+42047,OH,Akron,Mingo Madness,41.1297,-81.567,6/21/2020
+42050,OH,Dover,Canal Corridor 100 Mile Endurance Run,41.0122,-81.5078,7/11/2020
+42261,OH,Mount Vernon,Wood Splitter Winter Solstice,40.3934,-82.4857,12/21/2019
+42272,OH,Delaware,Seamus O'Possum's Thirty Kilometer Trail Footrace,40.3584,-83.0711,3/14/2020
+42280,OH,McArthur,Iron Furnace Trail Run,39.3279,-82.3497,4/4/2020
+42285,OH,Loudonville,Forget the PR Mohican 50k,40.617,-82.2531,4/18/2020
+42293,WV,Bruceton Mills,Coopers Rock 50 km and Half Marathon,39.6379,-79.8156,4/25/2020
+42297,OH,Athens,Thunderbunny Trail Races,39.3507,-82.0367,5/8/2020
+42324,OH,Dover,Tuscazoar 100 and 50 miler,40.5206,-81.474,9/5/2020
+42337,MI,Shelby Twp.,Turkey Trail Trot,42.6708,-83.033,11/28/2019
+42383,MI,Rochester Hills,Loopty Loop,42.6755,-83.1134,7/25/2020
+42402,MI,Adrian,Fall Into Fitness,41.8984,-84.0535,11/9/2019
+42407,MI,Leonard ,Bad Santa,42.8026,-83.1626,12/8/2019
+42430,MI,Leonard,Twilight Zone 24 Hour Endurance Run,42.8035,-83.1649,5/2/2020
+42446,MI,Holly,Ode to Laz Michigan Backyard Ultra,42.8034,-83.5096,7/18/2020
+42488,VA,Lyndhurst,Bel Monte,37.8826,-79.015,3/14/2020
+42514,VA,Skylark,Ultra Race of Champions,37.8928,-79.1355,5/2/2020
+42927,VA,Cumberland,Willis River,37.531,-78.27,1/5/2020
+43020,VA,Farmville,Freight Train 100k/50k,37.3046,-78.3908,12/14/2019
+43030,VA,Appomattox,Holiday Lake 50K++,37.3893,-78.6422,2/15/2020
+43065,VA,Lacrosse,Thoroughbred Races,36.6961,-78.0935,5/9/2020
+43074,VA,Farmville,Night Train 50k and Half Marathon,37.3045,-78.4521,6/27/2020
+43087,VA,Abingdon,The Yeti 100 Mile Endurance Run,37.4316,-78.6569,9/25/2020
+43097,VA,Glen Lyn,Old Glory Trail Runs,37.3984,-80.8508,11/9/2019
+43099,VA,Southwest,Blue Ridge Ultra Series,37.3515,-80.6003,11/9/2019
+43101,VA,Rocky Mount,Crooked Road 24 Hour Ultra,36.9693,-79.9419,11/23/2019
+43105,,Various,Dreadmill 48 Hour Endurance Challenge,37.0009,-79.8817,12/1/2019
+43108,NC,Erwin,The Nutcracker 12/6/3 hour Endurance Run,35.3278,-78.6749,12/14/2019
+43111,NC,Pinnacle,Pilot Mountain Goat,36.3471,-80.4712,12/21/2019
+43136,NC,Chapel Hill,Jordan Lake 12-Hour Challenge,35.7725,-79.0415,4/18/2020
+43147,VA,Blacksburg,Gateway 50K & 25K (15 Miler),37.2381,-80.461,5/2/2020
+43157,VA,Pembroke,Eastern Divide,37.353,-80.5997,6/20/2020
+43163,NC,Danbury,The Rabid Squirrel,36.3912,-80.2685,8/8/2020
+43271,NC,New Bern,Beer Army Centurion Challenge,35.0302,-77.0172,12/31/2019
+43273,NC,Roaring Gap,Roaring Gap 50K,36.3841,-81.0276,1/11/2020
+43279,NC,Maysville,Maysville to Macon 50-Mile Run,34.9011,-77.2316,2/8/2020
+43281,NC,Pinnacle,Pilot Mountain Marathon and 20k,36.3605,-80.4939,2/22/2020
+43311,NC,Roaring Gap,Blue Ridge 135,36.3982,-80.9864,6/14/2020
+43326,NC,Troutman,Lake Norman State Park 30K & 50K Trail Race,35.6736,-80.9334,11/9/2019
+43332,NC,Ellerbe,The Derby 50k,35.1439,-79.6475,11/30/2019
+43339,NC,Boomer,Warrior Creek,36.101,-81.2857,12/14/2019
+43342,NC,Hoffman,The Drop Zone Marathon and Half Marathon,35.0324,-79.5475,12/28/2019
+43348,NC,Ellerbe,NC Fat Ass 50k,35.059,-79.685,1/25/2020
+43356,NC,Ellerbe,The Ellerbe Marathon and Half Marathon,35.0713,-79.7614,2/29/2020
+43368,VA,Whitetop,Down the Mountain Marathon,36.6347,-81.7922,4/11/2020
+43379,VA,Mouth of Wilson,Grayson Highlands 50 Mile / 50k / Half Marathon,36.6212,-81.4845,5/2/2020
+43386,VA,Damascus,Dam Yeti 50,36.6341,-81.7846,6/6/2020
+43387,NC,Ellerbe,Bethel Hill Moonlight Boogie,35.0473,-79.8536,6/13/2020
+43391,NC,Hiddenite,Vertical Mile Challenge,35.9623,-81.1204,6/20/2020
+43406,SC,Fort Mill,Lake Haigler 12-Hour,35.0405,-80.9441,11/23/2019
+43407,VA,Norton,Dairy Queen Turkey Day 5K,36.9356,-82.6235,11/28/2019
+43409,VA,St. Paul,The Oxbow Ultra,36.904,-82.3207,11/30/2019
+43411,SC,Spartanburg,One Epic Run,34.8816,-81.8701,12/7/2019
+43414,NC,Kings Mountain,Monadnock Ultra,35.1704,-81.3653,12/14/2019
+43418,SC,Lancaster,Mo Big Butt 50 K,34.8478,-80.8017,12/21/2019
+43421,NC,Valdese,New Year's Resolution Runs,35.7669,-81.5439,1/1/2020
+43422,SC,Fort Mill,Ring In The New Year,35.0398,-80.9436,1/1/2020
+43424,NC,Connelly Springs,South Mountains Marathons,35.6029,-81.6289,1/11/2020
+43429,SC,Fort Mill,Mill Stone 50K,35.04,-80.944,2/8/2020
+43430,NC,Gastonia,MC Broken Ankle 12 Hour,35.2852,-81.109,2/8/2020
+43433,NC,Black Mountain,Mt Mitchell Challenge and Black Mountain Marathon,35.6158,-82.3203,2/29/2020
+43435,WV,Williamson,Conquer The Wall Endurance Challenge - 47HR & 35HR,37.6719,-82.2929,3/6/2020
+43438,NC,Hendersonville,Carolinas Angels 8K Trail Race for Angelman Syndrome,35.2625,-82.4766,3/7/2020
+43439,NC,George Poston Park,Wicked Root Ultra,35.306,-81.1075,3/13/2020
+43442,NC,Waxhaw,Cane Creek Half and 4 Miler,34.8426,-80.686,3/14/2020
+43444,NC,Nebo,Fonta Flora 50k and Half Marathon,35.755,-81.8872,3/21/2020
+43449,NC,Old Fort,Hellbender 100,35.6464,-82.1921,4/3/2020
+43454,NC,Montreat,Seven Sisters 25k,35.644,-82.303,4/18/2020
+43455,SC,Clover ,Mountaineer Rumble 50K-100K-100 Miler,35.1112,-81.2265,4/18/2020
+43466,SC,Fort Mill,Mass Extinction Elimination Endurance Challenge,34.9924,-80.8749,5/3/2020
+43470,NC,Burnsville,Quest for the Crest Vertical 10k/50k,35.7721,-82.2015,5/16/2020
+43471,KY,Olive Hill,Carter Caves Half Marathon,38.3698,-83.1234,5/16/2020
+43472,VA,Norton,Fit Farmer 12K Trail Run,36.9099,-82.6305,5/16/2020
+43476,NC,Black Mountain,Black Mountain Monster,35.6105,-82.3264,6/6/2020
+43487,NC,Belmont,Joel Johns Classic 3.0,35.2452,-81.0478,8/8/2020
+43488,VA,Breaks,Breaks Ultra,37.2863,-82.2935,9/12/2020
+43490,TN,Jonesborough,Buffalo Mountain Endurance Run Challenge,36.2125,-82.4009,10/2/2020
+43491,VA,Norton,The Hellbender 10k,36.934,-82.6287,10/3/2020
+43494,VA,Norton,Cloudsplitter 100,36.9331,-82.63,10/17/2020
+43589,KY,Pine Ridge,Rough Trail 50K,37.7678,-83.6088,11/9/2019
+43593,NC,Hendersonville,Hullabaloo 50K Ultramarathon & Relay,35.2321,-82.597,11/15/2019
+43594,NC,Pisgah Forest,Looking Glass 50 Miler,35.2799,-82.7053,11/16/2019
+43602,NC,Glenville,Headwaters Half,35.2303,-83.1074,12/7/2019
+43616,NC,Almond,Tsali Frosty Foot,35.4084,-83.5885,1/18/2020
+43619,NC,Cedar Mountain,Yeti or Not 25k,35.1929,-82.6048,2/1/2020
+43627,KY,Corbin,Moonbow Ultra Training Camp,36.9487,-84.0969,3/6/2020
+43634,TN,Alcoa,The Pistol Ultra Run,35.7894,-83.981,3/21/2020
+43636,NC,Sylva,Assault on BlackRock,35.4226,-83.1913,3/21/2020
+43637,OH,Lucasville,Ohio's Backyard Ultra,38.9187,-83.1202,3/21/2020
+43647,TN,Maryville,Three Sisters Ultra Festival,35.7489,-83.962,4/25/2020
+43648,KY,Morehead,Big Turtle 50 Miler,38.1881,-83.4329,4/25/2020
+43674,KY,Corbin,Moonbow Ultra,36.839,-84.344,9/26/2020
+43677,NC,Franklin,The Naturalist - Epic 25 / 50k,35.1823,-83.3806,10/3/2020
+43694,OH,Waynesville,"Night Owl Trail Marathon, Half, and 10K",39.4882,-84.0582,1/4/2020
+43826,TN,Jamestown,No Business 100,36.699,-84.4774,10/16/2020
+43841,OH,Piqua,GET LIT Trail Run,40.1839,-84.2791,12/28/2019
+43860,KY,Stearns,Yamacraw,36.6708,-84.548,4/4/2020
+44202,SC,Huger,Last Chance Trail Run,33.0556,-79.6958,12/7/2019
+44209,SC,Mount Pleasant,Charleston 100,32.7803,-79.9408,12/27/2019
+44215,SC,Columbia,Harbison 50K,34.0932,-81.1251,1/4/2020
+44216,SC,Shulerville,Retreat Repeat,33.1983,-79.6167,1/4/2020
+44221,SC,Bethera,Frozen: H3,33.2004,-79.7651,1/18/2020
+44224,SC,Moncks Corner,Hallucination 6/12/24 Hour Trail Run,33.2038,-79.9824,2/1/2020
+44230,SC,Georgetown,King's Highway Trail Race,33.3602,-79.227,2/15/2020
+44233,SC,Moncks Corner,Almost 9 Miler,33.2038,-79.9816,3/7/2020
+44237,SC,Mount Pleasant,Peyton's Wild and Wacky 10x5K,32.8734,-79.7947,3/14/2020
+44247,SC,Columbia,Harbison 100,34.0821,-81.1345,4/11/2020
+44249,SC,McClellanville,Cooter Creek 50 Mile Trail Race,33.0388,-79.5617,4/11/2020
+44253,SC,Cordesville,Wambaw Swamp Stomp,33.1625,-79.8295,5/2/2020
+44262,SC,Bethera,Hell Hole Hundred,33.201,-79.7655,5/28/2020
+44267,SC,Goose Creek,Hot Pursuit 5k,33.0279,-80.0357,6/13/2020
+44276,SC,Moncks Corner,Revenge of Stede Bonnet,33.2038,-79.9824,10/3/2020
+44277,SC,McClellanville,The Swamp Fox Ultra,33.042,-79.5638,11/10/2020
+44281,GA,Rising Fawn,Stairway to Adventure,34.8395,-85.484,11/8/2019
+44282,TN,Chattanooga,Upchuck 50K,35.2896,-85.1586,11/9/2019
+44283,GA,Sky Valley,Georgia Sky to Summit,34.9876,-83.3332,11/9/2019
+44289,GA,Hampton,The Stinger All Comers Track Race,33.3801,-84.2552,11/16/2019
+44291,GA,Blairsville,Duncan Ridge Trail,34.767,-83.9197,11/23/2019
+44296,SC,Beaufort,Delirium Ultra 24 Hour Run,32.447,-80.898,11/30/2019
+44301,GA,Powder Springs,Miles For Maria,33.9038,-84.7161,12/7/2019
+44302,GA,Rising Fawn,Cloudland Canyon 50k / Half Marathon,34.8246,-85.4836,12/7/2019
+44303,GA,Winder,Dirty Spokes Fort Yargo Trail Run,33.9708,-83.7288,12/7/2019
+44304,GA,Atlanta,The Underground Circus 100 Winter edition,33.7532,-84.3918,12/7/2019
+44306,GA,Ellijay,Mulberry Meltdown,34.7984,-84.6121,12/7/2019
+44308,SC,Johns Island,The Dirt Dash,32.641,-80.1221,12/14/2019
+44309,GA,Helen,Helen Holiday Half Marathon,34.715,-83.7279,12/14/2019
+44313,GA,Lookout Mountain,Lookout Mountain,34.957,-85.3795,12/21/2019
+44318,GA,Atlanta,Georgia Ultrarunning and Trailrunning Society Membership,33.749,-84.388,1/1/2020
+44323,GA,Lithia Springs,Atlanta Fat Ass 50K,33.7512,-84.6311,1/5/2020
+44327,GA,"Blairsville, GA",Fierce Dragon (H9),34.7649,-83.9255,1/14/2020
+44329,TN,Chattanooga,Rock/Creek Rabid Raccoon 25k,35.0426,-85.4139,1/18/2020
+44331,GA,Jackson,Huff N' Puff 1/2 Marathon and 5K,33.2362,-83.9442,1/25/2020
+44333,SC,Plum Branch,Rut Rogue 40s,33.793,-82.1451,2/1/2020
+44336,GA,Cartersville,Red Top Rumble,34.1425,-84.7044,2/2/2020
+44337,SC,Beaufort,SC Ultra Running Festival (SCURF),32.4355,-80.7571,2/3/2020
+44341,GA,Lithia Springs,SweetH20 Sweetheart Half Marathon,33.7578,-84.6421,2/8/2020
+44344,GA,Winder,Thrill In The Hills,33.9695,-83.7308,2/15/2020
+44346,GA,Brooklet,Farmdaze 24,32.3728,-81.5582,2/22/2020
+44349,GA,lithia springs,The Georgia Yeti NIGHTMARE,33.7532,-84.6333,2/29/2020
+44351,GA,Fayetteville,Run the Ridge 5K,33.4371,-84.4886,2/29/2020
+44352,GA,RINGGOLD,Elsie Enduro Trail Ultra,34.954,-85.1175,2/29/2020
+44353,Ga,Rising Fawn,Chattanooga 100 Mile / 50  Mile,35.0604,-85.3077,3/6/2020
+44361,GA,Conyers,The Austin Taylor Challenge Trail Run Series,33.671,-83.9403,3/14/2020
+44363,GA,Lithia Springs,Yeti 7/11 Hour Endurance Run,33.7655,-84.6469,3/14/2020
+44369,GA,Dawsonville,Mountain Madness at Fausett Farms,34.5257,-84.2539,3/21/2020
+44372,GA,Blairsville,The Georgia Death Race,34.7649,-83.9255,3/28/2020
+44374,GA,Kennesaw,Maria's Spring Fling 3/6/12/24 Hour Run and 100 Mile Challenge for Epilepsy,33.9983,-84.5798,4/4/2020
+44376,GA,Locust Grove,Zebra Dash 5K & 1 mile,33.3053,-84.1273,4/4/2020
+44377,GA,Forsyth,CAMMO Catfish Crawl Endurance Runs,33.1249,-83.9446,4/4/2020
+44382,GA,Savannah,Savannah Stairs of Death Race,32.0824,-81.0944,11/9/2019
+44387,GA,Savannah,Savannah Ultra Urban 50k Run,32.0651,-81.0982,11/23/2019
+44388,GA,Savannah,A Run thru the Woods,32.0298,-81.0003,11/29/2019
+44396,GA,Richmond Hill,Madder Marsh 50K GA,31.9556,-81.0536,12/14/2019
+44399,GA,Savannah,Speak Easy 10k,32.0801,-81.0856,12/14/2019
+44412,SC,Daufuskie Island,Daufuskie Island Marathon and Ultra,32.1451,-80.8373,1/18/2020
+44437,GA,Savannah,CGG 155 and 100 Ultra,32.0834,-81.0862,3/20/2020
+44450,GA,Tybee Island,May the 4th Be With You: Dawn of a New Hope,31.9913,-80.846,5/4/2020
+44459,GA,Richmond Hill,Badder Marsh Night Ultra 50K,31.8893,-81.1993,6/13/2020
+44463,sc,Hunting Island State Park,Hunting Solstice Ultra,32.3756,-80.4372,6/20/2020
+44464,GA,Savannah,Savannah Sultry Swamp Run,31.9634,-81.0146,7/25/2020
+44472,GA,Savannah,The Grit,32.0809,-81.0912,4/16/2021
+44487,TN,Foster Falls State Park,Fiery Gizzard Run,35.182,-85.6728,11/30/2019
+44489,GA,Pine Mountain,Pine Mountain Trail Run,32.8474,-84.811,12/7/2019
+44502,GA,Pine Mountain,Holiday Hootie Hoo,32.8342,-84.9046,12/15/2019
+44553,TN,Beersheba Springs,Savage Gulf Marathon,35.4462,-85.6552,3/21/2020
+44561,GA,Thomaston,The Widow Maker Ultra and Whisky Still 5k,32.8747,-84.4725,3/28/2020
+44570,GA,Chatsworth,Double Top 100 Stone Anvil,34.7583,-84.7074,4/16/2020
+44572,GA,Lithia Springs,SweetH2O 50K,33.7578,-84.6421,4/18/2020
+44663,GA,Ellijay,Creek to Peak Spring Trail Days,34.7983,-84.6116,4/24/2020
+44665,GA,Helen,Helenback Race Series,34.6999,-83.7188,4/25/2020
+44666,GA,Hiawassee,Brasstown Bald BUSTER 5k,34.8701,-83.81,4/25/2020
+44671,GA,Atlanta,The Underground Circus 100,33.7547,-84.3865,5/2/2020
+44683,GA,Leesburg,Harvest Run,31.7319,-84.1678,11/28/2019
+44713,FL,Fernandina Beach,Florida Roots Trail Series: Fort Clinch,30.7034,-81.4524,1/11/2020
+44720,GA,Albany,Chehaw Challenge,31.6279,-84.1356,1/25/2020
+44764,GA,Albany,Backyard Soul Survivor,31.6026,-84.2081,4/17/2020
+44768,GA,Macon GA,"MAS Roots, FREE TRAIL RACE",32.8294,-83.6774,4/18/2020
+44781,FL,Atlantic Beach,The Daytona 100,30.3251,-81.3952,12/7/2019
+44796,FL,St. Cloud,Wild Florida 120 Mile,30.2579,-81.5532,1/31/2020
+44809,FL,Bryceville,Angry Tortoise 25K/50K,30.4098,-81.9153,3/14/2020
+44840,AL,Huntsville,Dizzy Fifties,34.7454,-86.5114,11/16/2019
+44843,AL,Pelham,Blood Rock 100,33.3501,-86.719,11/22/2019
+44846,AL,Woodville,Cathedral Caverns Trail Run,34.5731,-86.2206,11/23/2019
+44847,GA,Columbus,Fountain City 5,32.4729,-85.0018,11/24/2019
+44853,AL,Birmingham,BUTS Bearly Ultra,33.4449,-86.8624,12/7/2019
+44864,AL,Huntsville,Recover from the Holidays 50K,34.7733,-86.5473,12/31/2019
+44869,AL,Huntsville,Fleet Feet Monte Sano 15K/4Mi Trail Running Race,34.7421,-86.5149,1/11/2020
+44874,AL,Huntsville,Mountain Mist,34.7417,-86.515,1/25/2020
+44877,AL,Huntsville,Huntsville AL Grand Slam,34.7441,-86.5115,1/26/2020
+44878,TN,Watertown,Black Toe Run,35.9865,-86.087,2/1/2020
+44883,AL,Moulton,Black Warrior,34.2971,-87.2713,2/15/2020
+44884,AL,Guntersville,Eagle Ridge,34.3953,-86.205,2/15/2020
+44888,AL,Delta,Mount Cheaha 50K,33.4818,-85.8085,2/29/2020
+44890,GA,Lumpkin,Flatlanders Canyon Crash Trail Run 5k/10k/ 13.1/50k,32.0624,-84.9185,2/29/2020
+44894,AL,Decatur,Delano Park,34.5973,-86.9754,3/7/2020
+44906,AL,Huntsville,Mckay Hollow Madness,34.7497,-86.5124,3/28/2020
+44908,AL,Alexander City,Lake Martin 100,32.7637,-85.9453,3/28/2020
+44915,AL,Pellham,Full Southeastern Trail Series - Long Series and Short Series,33.3491,-86.7293,4/14/2020
+44924,AL,Huntsville,Grand Viduta Stage Race,34.7497,-86.5124,4/24/2020
+44932,TN,Wartrace,Strolling Jim&#0153,35.5276,-86.3335,5/2/2020
+44934,GA,Blairsville,Cruel Jewel 100,34.8241,-84.3205,5/15/2020
+44961,TN,Gallatin,Nashville Running Company's Lock 4 Six Miler,36.3415,-86.4731,12/15/2019
+44964,TN,Nashville,Ghost Run,36.1627,-86.7816,12/28/2019
+44994,TN,Pegram,Music City Trail Ultra,36.1783,-87.0461,3/14/2020
+45034,GA,Blue Ridge,Cruel Jewel 50,34.8241,-84.32,5/16/2020
+45064,FL,Wakulla Springs,Tallahassee Ultra Distance Classic,30.235,-84.2976,12/14/2019
+45113,AL,Evergreen,Trap Trail 24,31.4425,-86.9531,4/4/2020
+45134,TN,Rockwood,Ozone Endurance Challenge,35.8862,-84.8153,5/27/2020
+45326,AL,Oneonta,Race to the Tower Trail Run,33.9886,-86.4583,5/30/2020
+45327,GA,Lookout Mountain,Chattanooga Women’s Running Summit,34.9329,-85.3897,6/4/2020
+45328,GA,Winder,FORT YARGO ULTRA,33.9684,-83.7303,6/6/2020
+45329,GA,Sky Valley,Rabun Georgia Half Marathon,34.982,-83.2735,6/7/2020
+45330,GA,Clayton,Women's Trail Festival with Mirna Valerio,34.8782,-83.4003,6/12/2020
+45333,GA,Dahlonega,Merrill's Mile,34.6281,-84.102,7/3/2020
+45334,TN,Chattanooga,SheVentures Camp,35.0178,-85.2064,7/24/2020
+45335,FL,Palatka,Azalea 12/24 Hour,29.6341,-81.646,11/9/2019
+45350,FL,Flagler Beach,7 Hours of Steflik New Year Celebration,29.475,-81.127,1/1/2020
+45358,FL,Ocala,The Itch,29.3658,-81.8217,1/25/2020
+45365,FL,Florahome,Iron Horse,29.7325,-81.8877,2/8/2020
+45372,FL,Palm Coast,Swamp 10k/30k/50k/100k Trail Race,29.4661,-81.2828,3/7/2020
+45385,FL,Alexander springs Florida,The Tick,29.0781,-81.5778,5/2/2020
+45395,GA,Albany,Southern Discomfort,31.6178,-84.1382,8/8/2020
+45396,GA,Columbus,Southern Fried 50/50,32.5553,-84.8623,8/22/2020
+45498,FL,Yankeetown,Cross Florida Route 40 Romp,29.0011,-82.7616,3/7/2020
+45501,FL,Brooksville,Long Play Trail Run,28.5271,-82.2189,3/7/2020
+45511,FL,Brooksville,Withlacoochee Moon River Run,28.524,-82.2175,4/25/2020
+45515,FL,Inverness,"Sweat, Swat 'n Swear!",28.7583,-82.3543,5/24/2020
+45538,FL,Fort Walton Beach,Round the Bay Relay and Ultra,30.396,-86.5843,12/28/2019
+45541,FL,Land O' Lakes,Long Haul 100,28.2813,-82.4154,1/18/2020
+45570,GA,West Point Lake,Last at the Lake,32.9179,-85.1792,7/25/2020
+45579,FL,Milton,Cottonmouth 100,30.8601,-86.8349,11/23/2019
+45597,FL,Milton,Bear Bait Ultras,30.8613,-86.8335,1/18/2020
+45633,GA,Villa Rica,Hot to Trot,33.7103,-84.8655,7/26/2020
+45636,GA,Lithia Springs,The Yeti Snakebite 50/50,33.752,-84.6315,9/13/2020
+45637,AL,Alabaster,The Endless Mile,33.186,-86.829,10/16/2020
+45639,GA,Tucker,Henderson Trail 12 & 1/2,33.8545,-84.2171,10/24/2020
+45735,GA,Blue Ridge,BLUE RIDGE ULTRA,34.7836,-84.259,10/10/2020
+45830,FL,Pensacola,Wildcat Ultras,30.5153,-87.3692,9/5/2020
+45875,FL,Fort Lauderdale,Icarus Florida Ultrafest,26.0827,-80.1482,11/18/2019
+45879,FL,Alva,Caloosahatchee Ultra 50k and Keith Carlton Memorial 25k,26.7251,-81.6631,12/7/2019
+45880,FL,Jupiter,Jupiter Ridge Sand Spur 50K/25K,26.916,-80.0721,12/28/2019
+45881,FL,Hobe Sound,Just Survive 125,27.0668,-80.115,1/3/2020
+45882,FL,Naples,Pier 2 Pier 200K,26.1316,-81.8074,1/11/2020
+45883,FL,Clewiston,Skydive Ultra Run,26.7318,-81.056,1/25/2020
+45884,FL,Canal Point,Death at DuPuis (A Backyard Event),27.0006,-80.5527,2/22/2020
+45885,FL,Englewood,Save the Daylight,26.9199,-82.3159,2/28/2020
+45887,FL,West Palm Beach,Run for the Natural Areas Trail Race,26.7781,-80.123,3/14/2020
+45888,FL,Loxahatchee,JW Corbett Trail Races,26.8565,-80.3014,4/18/2020
+45889,FL,Hobe Sound,DTR Endurance Trail Race,27.0035,-80.1013,4/25/2020
+45890,Fl,Hobe Sound,The Dunes 100 Ultra Trail,27.0035,-80.1013,4/25/2020
+45891,FL,Miami,Miami 50/50,25.6112,-80.3461,6/20/2020
+45892,FL,Jupiter,The Trident Trilogy,26.916,-80.0721,8/8/2020
+45893,FL,Miami,Miami 100,25.6108,-80.3466,9/26/2020
+46309,TN,Jackson,Black Diamond 40 Miler,35.7031,-88.8861,11/29/2019
+46311,TN,Jackson,The Black Diamond Marathon,35.6145,-88.8139,11/30/2019
+46312,TN,Pinson,The Sequoyah,35.4958,-88.694,12/1/2019
+46313,TN,Pinson,Christmas Tree Cake Mile,35.5038,-88.6888,12/1/2019
+46323,TN,Montgomery Bell State Park,Bell Ringer Trail Run,36.0989,-87.2742,12/14/2019
+46327,TN,Jackson,Trail of Fears,35.6754,-88.8664,12/28/2019
+46331,MS,Meridian,The Great Scorpion Trail Run,32.354,-88.6628,1/4/2020
+46437,MS,Madison County,Frosty 15,32.4652,-90.0577,2/8/2020
+46446,MS,Laurel,Mississippi Trail 50,31.5701,-88.9871,3/7/2020
+46466,MS,Jackson,Fondren Urban Ultra,32.3371,-90.174,4/18/2020
+46487,TN,Bell Buckle,Big Backyard Ultra,35.6709,-86.3484,10/17/2020
+46489,TN,Pocahontas,Walking Tall 50/25K,35.063,-88.7191,10/17/2020
+46590,TN,Spencer,Caney Fork Ultra,35.7951,-85.2835,8/29/2020
+46651,MS,Biloxi,Q50 Races Badlands50 Mississippi  Ultra,30.6325,-88.9227,4/18/2020
+46658,AR,Multiple,The Last Annual Heart of the South Road Race,35.1354,-90.086,6/18/2020
+46665,TN,Bartlett,Fortitude Trail Race 50k/25k,35.2188,-89.8712,9/19/2020
+46702,TN,Millington,Swamp Stomper 50k/25k,35.3061,-90.0674,1/18/2020
+46710,TN,Henning,The Fort Pillow Trail Races,35.6341,-89.8482,2/8/2020
+46714,TN,Millington,Shelby Forest Loop,35.3377,-90.0388,2/23/2020
+46749,TN,Dover,The Night Stalker Ultras,36.4866,-88.0335,5/2/2020
+46950,TN,Deer Lodge,Slightly Less Monotonous 6 Hour,36.232,-84.8581,5/30/2020
+47000,LA,Franklinton,Q50 Races Chupacabra,30.7667,-90.1446,11/16/2019
+47014,LA,Franklinton,Q50 Races Trails Extravaganza 2020,30.7671,-90.1575,2/1/2020
+47042,LA,Mandeville,Q50 Races Santa on Trails 5k,30.3344,-90.0431,12/7/2019
+47047,LA,Norco,Q50 Races Resolution,30.021,-90.409,1/11/2020
+47083,LA,Port Allen,Cane Field Classic,30.4652,-91.2065,10/10/2020
+47086,LA,Port Allen,Children of the Cane 100,30.4653,-91.2063,11/14/2020
+47295,IL,Vienna,Tunnel Hill 100,37.4436,-88.8711,11/9/2019
+47297,KY,Louisville,The JMF Trails Hillbilly Half,38.0856,-85.7668,11/16/2019
+47299,MO,Cape Girardeau,Meandering Turkey,37.3423,-89.6009,11/24/2019
+47306,KY,Leitchfield,CASA CANDY CANE 5K,37.4713,-86.2829,12/7/2019
+47307,IN,Brownstown,Jackson County 50-50 Ultramarathon,38.8638,-86.0196,12/7/2019
+47313,KY,Brandenburg,Otter Creek,37.9438,-86.0483,12/21/2019
+47323,KY,Fairdale,Louisville Lovin' the Hills,38.0845,-85.7652,2/8/2020
+47334,IN,Borden,Knobstone Knockout,38.4686,-85.862,3/15/2020
+47335,MO,Cape Girardeau,Howard Aslinger Endurance Run,37.3138,-89.558,3/20/2020
+47338,IN,Poland,OPSF5050,39.3449,-86.8521,3/21/2020
+47351,KY,Louisville,Backside Trail Marathon,38.2406,-85.6741,4/26/2020
+47365,MO,Dorena Landing,Vol State,36.5862,-89.2148,7/9/2020
+47367,TN,Jamestown,The Cumberland Plateau Stage Race,36.3848,-84.9357,8/28/2020
+47371,TN,Frozen Head State Park,The Barkley Fall Classic,36.1223,-84.5147,9/19/2020
+47407,AR,Wynne,Village Creek 10k/25k Trail Run,35.1682,-90.7214,1/25/2020
+47445,MO,Middle Brook,Devil's Toll Race,37.661,-90.6492,6/13/2020
+47761,LA,Ville Platte,Loup Garou Trail Run,30.7888,-92.2829,12/14/2019
+47762,LA,Alexandria,Wild Azalea Trail Challenge,31.2404,-92.6797,1/4/2020
+47767,LA,Provencal,Red Dirt Ultra,31.4787,-93.1033,2/29/2020
+47769,LA,Ville Platte,Chicot Challenge 60 Mile Trail Relay,30.7949,-92.2784,3/21/2020
+48633,MO,Wildwood,Wildwood Trail Marathon,38.5519,-90.6386,12/8/2019
+48640,MO,Midwest,50K MASHUP SLAM,38.5828,-90.6629,1/11/2020
+48646,MO,Wildwood,963 Beulah Challenge,38.5319,-90.6852,2/8/2020
+48647,MO,St. Charles,Weldon Spring Trail Marathon and 20k,38.6969,-90.7254,2/15/2020
+48650,MO,Festus,The Endurance Trials - Timed/Ultra,38.2334,-90.4233,3/7/2020
+48656,MO,Wildwood,Ozark Foothills 100,38.533,-90.6874,4/4/2020
+48658,MO,St Louis,Double Chubb,38.5201,-90.5815,4/18/2020
+48661,MO,Washington,LX3 - A Timed Event,38.5634,-91.0309,4/25/2020
+48665,MO,Potosi,Berryman 50 mile and Marathon Trail  Races,37.9288,-91.0622,5/16/2020
+48666,IN,Terre Haute,Hawthorn Half Day Relay & Ultra,39.49,-87.3229,5/16/2020
+48670,MO,High Ridge,The Shippey Endurance Runs,38.5022,-90.5476,8/7/2020
+48672,MO,Dutzow,KATY Trail 50/50,38.6027,-90.9989,9/12/2020
+48682,IN,Albion,The HUFF,41.3298,-85.3828,12/28/2019
+49059,MI,Belmont,Trails to Hope Series-Race #2,43.0542,-85.5012,11/9/2019
+49060,MI,Belmont,Trails to Hope Series-Race #3,43.0541,-85.5012,11/16/2019
+49068,MI,Middleville,Yankee Springs Winter Challenge,42.7131,-85.462,1/4/2020
+49193,IL,DeWitt,Clinton Lake,40.1883,-88.8445,3/28/2020
+49238,IL,Dixon,Yeti Trail Series,41.8903,-89.4949,12/7/2019
+49240,IL,Libertyville,Arctic Frog Endurance Run,42.3099,-87.9492,12/14/2019
+49246,IL,Crystal Lake,Frozen Gnome,42.2523,-88.3202,1/11/2020
+49248,IL,Manito,Cactus Classic Trail Races,40.4114,-89.8662,3/14/2020
+49252,IL,Pekin,Potawatomi Trail Runs,40.5917,-89.6034,4/2/2020
+49254,WI,Beloit,Big Hill Bonk - Wisconsin's Backyard Ultra,42.5562,-89.0492,4/3/2020
+49256,IL,Libertyville,Bunny Wabbit Run and Easter Egg Hunt,42.306,-87.9529,4/11/2020
+49257,IL,Crystal Lake,Earth Day 50k/ 15 Mile / 5 Mile,42.2521,-88.3189,4/18/2020
+49260,WI,LaGrange,Kettle Moraine,42.8212,-88.6016,6/13/2020
+49261,IL,Plainfield,The C.R.C. Summer Solstice 24 Hour Run/Relay,41.5625,-88.2727,6/20/2020
+49262,WI,Milwaukee,Six Days in the Dome,43.0256,-88.0157,7/23/2020
+49266,IL,Forest City,Temptation 200 Ultras,40.4006,-89.8786,9/5/2020
+49267,IL,Sterling,The Hennepin Hundred,41.7976,-89.6571,10/3/2020
+49294,MI,Big Rapids,The Hungerford Trail Races,43.6869,-85.5261,9/26/2020
+49367,MI,Ludington,VM150 - Veterans Memorial 150,43.9552,-86.4611,5/23/2020
+49389,MI,Peninsula,Lighthouse 100,44.9901,-85.4787,5/30/2020
+49404,WI,Greenbush,NK50k,43.7968,-88.0352,4/4/2020
+49409,WI,Green Bay,Titletown Ultra Series,44.536,-87.9259,6/27/2020
+49410,WI,Kewaskum,Lunatics Trail Series,43.4944,-88.2225,7/18/2020
+49454,MN,Winona,"Storm the Bluffs - Trail Run, MTB, Duathlon",44.0407,-91.6619,11/9/2019
+49455,NE,Omaha,Feast and Feathers,41.3511,-96.0558,11/28/2019
+49456,IA,Granger,The Stuffed Turkey Endurance Races,41.7891,-93.788,11/30/2019
+49457,IA,Honey Creek,Hitchcock Experience Endurance Runs,41.4145,-95.8644,12/14/2019
+49458,IA,Davenport,One Hundred K's of Convenience,41.5254,-90.6254,3/7/2020
+49459,MN,Theilman,Zumbro Endurance Run,44.316,-92.1467,4/10/2020
+49461,IL,Galena,Galena Sky Trail Races,42.319,-90.3938,5/16/2020
+49462,MN,Various Locations,Endless Summer Trail Run Series,44.7792,-93.1643,5/20/2020
+49463,IA,Booneville,Booneville Backroads Ultra,41.5242,-93.8838,5/23/2020
+49465,MN,Afton,Afton Trail Run,44.8534,-92.7765,7/4/2020
+49467,MN,Winona,Storm the Farm - Trail Run,43.9435,-91.5746,7/25/2020
+49469,WI,Argyle,Wedel Farm 50,42.7397,-89.8575,8/1/2020
+49472,MN,Frontenac,In Yan Teopa 5 & 10 miler,44.5355,-92.3373,9/26/2020
+49474,IA,Dubuque,Mines of Spain 100,42.4807,-90.6654,10/16/2020
+49475,MO,Kirksville,FLATS Trail Half Marathon,40.1838,-92.6432,10/17/2020
+49497,WI,Hudson,The Willow 10 & 20 Miler,45.0129,-92.6755,5/2/2020
+49506,MN,Marine on St Croix,O'Brien 10 miler and 5k,45.2232,-92.7679,9/20/2020
+49508,WI,River Falls,Icebox 480,44.9368,-92.5366,11/7/2020
+49512,WI,Rice Lake-Park Falls,Tuscobia Winter Ultra,45.5155,-91.7427,12/27/2019
+49514,MN,Hinckley,St. Croix 40 Winter Ultra,45.9575,-92.6059,1/11/2020
+49521,WI,New Auburn,Chippewa 50K and 10K,45.2229,-91.4136,4/25/2020
+49523,WI,Minong,Popple Shoot Trail Races,46.0958,-91.826,5/9/2020
+49527,WI,Belleville,"Sugar Badger 50/50 and half, by Ten Junk Miles Racing",42.8606,-89.5333,5/30/2020
+49540,WI,Belleville,Badger Trail Races by Ten Junk Miles Racing,42.861,-89.5358,8/1/2020
+49570,MO,Columbia,The 24 Hour Lions Roar,38.877,-92.2665,4/24/2020
+49943,MI,Marquette,Marquette Trail 50,46.5826,-87.4788,8/15/2020
+49972,MN,Duluth,Chester Rim 5K -Duluth Winter Trailrunning Series,46.8135,-92.0908,12/14/2019
+49973,MN,Duluth,Duluth Winter Trailrunning Series-5 Race Discount!,46.7867,-92.1005,12/14/2019
+49975,MN,Duluth,The Trail Running Film Festival - Duluth MN,46.7586,-92.1336,1/3/2020
+49976,MN,Duluth,Northwoods Marathon & Half Marathon - Duluth Winte,46.8561,-92.0135,1/4/2020
+49978,MN,Duluth,Wild Winter Wipeout 5K - Duluth Winter Trailrunning Series,46.7158,-92.2047,1/18/2020
+49979,MN,Duluth,Hartley Park 10K-Duluth Winter Trailrunning Series,46.838,-92.0864,2/8/2020
+49980,MN,Duluth,Frozen 4 Hour - Duluth Winter Trailrunning Series,46.7867,-92.1005,2/22/2020
+49987,MN,Duluth,Last Runner Standing,46.7157,-92.2049,6/6/2020
+49991,WI,Solon Springs,North Country Trail Races,46.3813,-91.7778,7/18/2020
+49995,MN,Cloquet,Lost Forester Adventure Runs of Pine Valley,46.7062,-92.4629,9/7/2020
+50062,MN,International Falls,Arrowhead 135,48.5934,-93.4024,1/27/2020
+50068,MN,Lutsen,Superior Spring Trail Race,47.6626,-90.7137,5/16/2020
+50079,MN,Lutsen,Superior Fall Trail Race,47.6469,-90.6748,9/11/2020
+50304,WY,Pinedale,The Drift,43.2217,-110.008,3/13/2020
+50306,MT,Bozeman,Old Gabe,45.7649,-111.018,6/13/2020
+50307,MT,Bozeman,Devil's Backbone,45.542,-111.035,7/18/2020
+50308,MT,Helena,Thunderbolt Creek,46.3268,-112.478,7/18/2020
+50309,SD,Sturgis,Black Hills 100,44.4163,-103.5,6/26/2020
+50311,AB,Taber,Taber Tuff 25 / 12.5,49.8113,-112.172,7/11/2020
+50314,AB,Lethbridge,Lost Soul Ultra,49.6956,-112.846,9/11/2020
+50317,ID,Wallace,WIEC CC Divide,47.5509,-115.764,12/26/2019
+50318,ID,Orofino,WIEC Idaho Sisters,46.8375,-115.586,12/29/2019
+50319,ID,Menan,Spitfire Ultra Trail Challenge,43.7852,-111.99,4/18/2020
+50321,ID,Challis,River of No Return Endurance Runs,44.5079,-114.225,6/20/2020
+50322,ID,Salmon,Beaverhead Endurance Runs,44.8144,-113.272,7/11/2020
+50325,ID,Stanley,WIEC Boulder-Chain Lakes Loop,44.0493,-114.653,12/25/2019
+50327,ID,Atlanta,WIEC Queens River Loop,43.8423,-115.184,12/27/2019
+50329,ID,Stanley,WIEC Mystery Peak,44.1707,-114.91,12/30/2019
+50330,ID,Riggins,WIEC Seven Devils Loop,45.3487,-116.511,12/31/2019
+50332,ID,McCall,Sharlie Shuffle,44.9345,-116.099,5/30/2020
+50335,ID,Silver Creek Plunge,WIFMER 2.0,44.3294,-115.803,6/27/2020
+50336,ID,Grangeville,Twin Pines Trail Run,45.9266,-116.122,7/5/2020
+50338,ID,Stanley,Technical Running Camp with Brittany Peterson and Cody Lind,44.2155,-114.935,7/16/2020
+50339,ID,Irwin,PALISADES ULTRA TRAIL SERIES,43.3251,-111.109,7/17/2020
+50343,ID,Ketchum,Standhope,43.8351,-114.258,7/25/2020
+50344,OR,Wallowa,WIEC Standley Cabin,45.4714,-117.559,12/24/2019
+50347,OR,Joseph,WIEC Wallowa Lakes,45.267,-117.213,12/28/2019
+50353,BC,Fernie,The Lone Wolf,49.4862,-115.09,6/13/2020
+50355,WA,Mt. Spokane,Mountain Magic Trail Run,47.9176,-117.09,6/20/2020
+50362,BC,Fernie,Elk Valley Ultra,49.5126,-115.069,7/25/2020
+50363,WA,Spokane,Tartarus Backyard Ultra,47.7346,-117.519,8/15/2020
+50366,AB,Millarville,OUTRUN  Backyard Ultra,50.7714,-114.284,6/12/2020
+50367,WA,Frater Lake ,Kaniksu 50 & Emory Corwine Memorial Ruck Race,48.6544,-117.485,6/13/2020
+50373,BC,Rossland,Broken Goat,49.0781,-117.8,7/18/2020
+50375,AB,Calgary,Iron Legs Mountain Races,50.8953,-114.705,8/15/2020
+50377,BC,Kimberley,Black Spur Ultra,49.6652,-115.997,8/22/2020
+50378,AB,Bragg Creek,The Lewiston Ultra - Moose Mountain,50.9474,-114.693,8/22/2020
+50380,BC,Nelson,Tackle the Toad,49.4894,-117.361,9/13/2020
+50383,MO,Camdenton,4 Fore 30,37.9877,-92.7982,12/7/2019
+50403,MO,Lake of the Ozarks ,Trail of Four Winds,38.0755,-92.5737,5/2/2020
+50409,MO,Osage Beach,Rocky Top 5K,38.1139,-92.6683,7/11/2020
+50432,AR,Mountain Home,Davids Trail Endurance Run,36.3591,-92.2519,1/17/2020
+50441,AR,Norfork,Ozark Highlands Endurance Run,36.2152,-92.2856,3/7/2020
+50544,AR,Mountainburg,Razorback Running Revival,35.6938,-94.119,11/9/2019
+50549,KS,Paola,Rocky Ridge Ranch Trail Run,38.5722,-94.8791,12/14/2019
+50567,AR,Morrilton,Hoof it for Heifer,35.1277,-92.9245,4/25/2020
+50581,KS,Lawrence,Sanders' Saunter,38.9397,-95.3407,11/9/2019
+50583,KS,Kansas City,Veteran's Day Fantastic 4-Mile Trail Run,39.1647,-94.7782,11/10/2019
+50584,KS,Kansas City,Alternate Chili Ten Mile Trail Run,39.1505,-94.7889,12/7/2019
+50588,KS,Kansas City,Trail Nerds Membership,39.1155,-94.6268,12/30/2019
+50592,KS,Kansas City,"Psychodelic 5K Trail Run, Winter Edition",39.1647,-94.7782,1/19/2020
+50593,KS,Meriden,"Rock-On, Lake Perry! Trail Run",39.1794,-95.4794,1/25/2020
+50596,KS,Kansas City,Psycho Wyco Run Toto Run,39.1616,-94.7818,2/22/2020
+50599,KS,Lawrence,Pi Day River Rotation,38.9728,-95.2183,3/14/2020
+50600,KS,Ottawa,Prairie Spirit Trail,38.588,-95.2718,3/28/2020
+50604,KS,Meriden,Free State Trail Run,38.9355,-95.3757,4/18/2020
+50605,KS,Manhattan,Flint Hills 50 and Marathon,39.1995,-96.5113,4/18/2020
+50610,KS,Cassoday,Heartland 50,38.0406,-96.6391,5/2/2020
+50613,KS,El Dorado,Ramon Criss Storm the Dam Trail by David Wernli -,37.839,-96.8192,6/6/2020
+50615,KS,El Dorado,"Walnut River Gravel Run 50K, Marathon, Half",37.8173,-96.8424,7/11/2020
+50619,KS,Shawnee,KC Dirt Community Membership,39.0228,-94.7152,8/20/2020
+50620,KS,Lawrence,Hawk Hundred,38.9403,-95.3403,9/5/2020
+50642,AR,Hot Springs,Run Lovit,34.5762,-93.4313,2/28/2020
+50677,OK,Big Cedar,Ouachita Switchbacks,34.6865,-94.6259,1/18/2020
+50682,OK,Wilburton,Outlaw 100 Oklahoma,34.9775,-95.3537,2/15/2020
+50706,OK,Wilburton,Dark and Dirty Miles,34.9821,-95.3541,7/11/2020
+50713,KS,Wichita,KUS 6/12/24 Hour Run,37.6445,-97.2774,11/8/2019
+50729,KS,Ellsworth,Rockin K,38.6615,-97.9996,4/4/2020
+50757,KS,Pretty Prairie,AlfaDog 40 mile + 25K,37.7822,-98.0194,3/7/2020
+50836,OK,Stillwater,Lake McMurtry Run,36.1698,-97.1878,4/11/2020
+50876,WY,Laramie,Twin Mountain Trudge,41.1858,-105.394,1/11/2020
+50877,CO,Fort Collins,Quad Rock 50,40.5881,-105.18,5/9/2020
+50878,CO,Westminster,Happy Camper Fun Run,39.8731,-105.131,6/11/2020
+50882,CO,Gould,Never Summer 100km,40.5091,-106.003,7/25/2020
+50883,SD,Custer,Lean Horse,43.7739,-103.596,8/15/2020
+50884,WY,Cheyenne,Antelope Dash,41.1901,-105.243,8/29/2020
+50885,CO,Denver,Human Potential Running Series Membership,39.7392,-104.99,9/1/2020
+50886,CO,Bellvue,Black Squirrel Half,40.5879,-105.18,9/12/2020
+50887,WY,Glendo,Glendo Lake Trail Race,42.472,-104.953,9/19/2020
+50888,CO,Fort Collins,Blue Sky Trail Marathon,40.5183,-105.168,10/17/2020
+50895,TX,Tyler,Running the Rose,32.4807,-95.2957,1/25/2020
+50903,LA,Keithville,Screaming Monkey 100,32.2592,-93.9439,4/4/2020
+50918,TX,La Porte,Run To The Rum 50k,29.6551,-95.0594,3/21/2020
+51197,TX,Gordonville,Cross Timbers Trail Run,33.8593,-96.8382,2/22/2020
+51204,TX,Grapevine,Rockledge Rumble,32.9802,-97.063,11/9/2019
+51205,TX,Glen Rose,Dinosaur Valley Endurance Run,32.2412,-97.8087,11/23/2019
+51206,TX,Hallettsville,El Camino de Lavaca Pilgrimage,29.3088,-96.9966,12/2/2019
+51207,TX,Needville,Brazos Bend 100,29.3781,-95.6081,12/7/2019
+51208,TX,Houston,Houston Running Festival,29.8272,-95.6141,12/14/2019
+51209,TX,Graham,The Wildcatter Ultra,33.0687,-98.5654,1/11/2020
+51210,TX,Dripping Springs,Happy Trails Trail Race,30.2171,-98.0866,2/1/2020
+51211,TX,Cat Spring,Jackalope Jam,29.9005,-96.3072,2/20/2020
+51214,TX,Selma,Salsa Walk,29.5743,-98.3269,2/29/2020
+51215,TX,San Angelo,Crazy Desert Trail Race,31.4534,-100.492,3/7/2020
+51216,TX,Dallas,Run4Bibles,32.6642,-96.9739,3/7/2020
+51217,TX,San Felipe,San Felipe Shootout,29.8184,-96.1129,3/21/2020
+51219,TX,Needville,Brazos Bend 50,29.3781,-95.6081,4/4/2020
+51220,TX,San Antonio,Run the Walk 5K,29.3999,-98.5375,4/17/2020
+51221,TX,Cleburne,Coyote Trail Run,32.2597,-97.5524,4/18/2020
+51222,TX,Bastrop,Wildflower Trail Run,30.1109,-97.2607,5/9/2020
+51224,TX,Graford,Possum's Revenge,32.8755,-98.5055,5/30/2020
+51225,TX,Cat Spring,Habanero Hundred,29.8988,-96.3086,8/15/2020
+51228,TX,Bridgeport,Bridgeport Trail Run,33.2338,-97.7927,12/14/2019
+51236,TX,Alvord,Grasslands Trail Run,33.4156,-97.6244,3/21/2020
+51497,UT,Moab,Dead Horse Ultra,38.6557,-109.678,11/16/2019
+51498,UT,Moab,Winter Sun 10k,38.5318,-109.487,12/7/2019
+51499,CO,Golden,Sawmill 17 & 50K+,39.8181,-105.287,12/14/2019
+51501,UT,Moab,Arches Ultra,38.6555,-109.679,1/25/2020
+51502,CO,Colorado Springs,Stories Ultra,38.7389,-104.825,2/8/2020
+51503,CO,Pueblo,Pueblo Marathon and Half,38.274,-104.772,2/23/2020
+51504,UT,Moab,Canyonlands Half Marathon and 5 Mile,38.6844,-109.465,3/14/2020
+51505,UT,Moab,Behind the Rocks Ultra,38.4176,-109.467,3/21/2020
+51506,CO,Colorado Springs,Rattler Trail Race,38.8683,-104.76,4/11/2020
+51507,CO,Fruita,Desert Rats Trail Running Festival,39.172,-108.833,4/18/2020
+51508,UT,Moab,Amasa,38.5326,-109.6,4/18/2020
+51510,CO,Colorado Springs,Falcon 50,39.0096,-104.882,4/25/2020
+51511,CO,Buena Vista,Collegiate Peaks Trail Run,38.844,-106.125,5/2/2020
+51512,CO,Colorado Springs,Cheyenne Mountain Ultra 10x5k,38.7292,-104.833,5/2/2020
+51513,CO,Colorado Springs,Take 5 in the Garden,38.8771,-104.872,5/2/2020
+51514,UT,Moab,Desert RATS Adventure Racing Experience,38.6098,-109.534,5/6/2020
+51516,CO,Golden,Tommyknocker 12-Hour & The Mine Shaft Half,39.7976,-105.248,5/9/2020
+51517,CO,Fruita,Desert RATS Rabbit Valley Half,39.1496,-108.685,5/9/2020
+51518,CO,Fruita,Desert RATS Classic,39.1496,-108.685,5/9/2020
+51519,NM,Abiquiu,Ghost Ranch Trail Races,36.3129,-106.482,5/9/2020
+51521,CO,Colorado Springs,Cheyenne Mountain Trail Race,38.7288,-104.84,5/16/2020
+51522,NM,Los Alamos,Jemez Mountain,35.8954,-106.286,5/23/2020
+51523,CO,Colorado Springs,High Drive Challenge,38.8214,-104.862,5/23/2020
+51524,CO,Black Hawk,Golden Gate Dirty 30,39.8465,-105.358,5/30/2020
+51525,CO,Colorado Springs,Valkyrie Trail Race,38.731,-104.821,5/30/2020
+51526,CO,Buffalo Creek,North Fork 50 Mile/50K,39.3879,-105.275,6/6/2020
+51527,CO,Fairplay,South Park Trail Marathon & Half,39.2247,-106.004,6/6/2020
+51528,UT,Moab,Thelma and Louise Half Marathon and Relay,38.5767,-109.634,6/6/2020
+51532,CO,Fruita,Desert RATS Kokopelli 150,39.172,-108.833,6/14/2020
+51533,CO,Divide,Mueller Marathon,38.8871,-105.18,6/20/2020
+51534,CO,Lake City,San Juan Solstice 50,38.0279,-107.317,6/27/2020
+51535,CO,Silverton,Blue Ribbon Run,37.8119,-107.665,7/4/2020
+51536,CO,Leadville,Leadville Firecracker 5K,39.2503,-106.292,7/4/2020
+51537,CO,Silverton,Silverton Alpine Marathons,37.8484,-107.68,7/11/2020
+51538,CO,Fairplay,Silverheels 100,39.2254,-105.994,7/11/2020
+51539,CO,Silverton,Kendall Mountain Run,37.8119,-107.665,7/12/2020
+51540,CO,Fairplay,Last Call 50 Miler,39.2256,-105.995,7/12/2020
+51541,CO,Colorado Springs,Classic 10k,38.9305,-104.815,7/18/2020
+51542,CO,Ouray,Ouray 100 and 50 Mile Endurance Run,38.0296,-107.673,7/24/2020
+51543,CO,Grand Mesa,Grand Mesa Ultras,39.0279,-108.047,7/25/2020
+51546,CO,Colorado Springs,Pikes Peak Ultra,38.8212,-104.861,7/25/2020
+51547,CO,Salida,High Lonesome 100,38.7389,-106.16,7/31/2020
+51548,NM,Taos Ski Valley,Up & Over 10K Trail Run,36.5946,-105.449,8/1/2020
+51549,CO,Fairplay,Sheep Mountain Endurance Runs,39.2252,-105.994,8/1/2020
+51550,UT,La Sal,Ute 100 Mile,38.3439,-109.183,8/7/2020
+51551,CO,Lake City,HighFive100,38.0284,-107.317,8/14/2020
+51552,CO,Telluride,Telluride Mountain Run,37.9357,-107.814,8/22/2020
+51555,NM,Santa Fe,Endurance Santa Fe Mountain Races,35.7963,-105.802,9/5/2020
+51557,CO,Westcliffe,Sangre de Cristo Ultras,37.9347,-105.456,9/16/2020
+51560,CO,Crested Butte,Crested Butte Ultra,38.8986,-106.965,10/3/2020
+51561,CO,Franktown,Castlewood Canyon Fun Run,39.3331,-104.742,10/3/2020
+51562,UT,Moab,Moab 240 Endurance Run,38.579,-109.553,10/9/2020
+51563,UT,Moab,Arches Half Marathon,38.8102,-109.309,10/11/2020
+51564,UT,Moab UT,Moab Trail Running Getaway,38.5932,-109.568,10/11/2020
+51566,CO,Sedalia,Indian Creek Fifties,39.3788,-105.1,10/17/2020
+51568,NM,Albuquerque,Bosque Bigfoot Trail Runs,35.1231,-106.676,11/30/2019
+51570,NM,Lamy,Galisteo Basin Preserve Winter Trail Series,35.4733,-105.927,12/21/2019
+51574,UT,Moab,Moab Red Hot 55k/33k,38.6005,-109.814,2/15/2020
+51577,AZ,Monument Valley,Monument Valley Ultra,36.9858,-110.116,2/29/2020
+51582,NM,Tijeras,Cedro Peak,34.9973,-106.322,4/18/2020
+51598,NM,San Ysidro,Dragon's Back Ultra and Trail Races,35.4985,-106.841,6/6/2020
+51696,UT,Midway,Bigfoot Snowshoe festival,40.4805,-111.496,1/25/2020
+51719,UT,Provo,Squaw Peak 50 Mile Trail Run,40.3554,-111.573,6/13/2020
+51724,UT,Park City,Twisted Fork,40.7238,-111.537,6/27/2020
+51729,UT,Pleasant Grove,Follow the Flag 5K Trail Race,40.3748,-111.713,7/11/2020
+51733,UT,Snowbird Resort,Speedgoat 50k/short course 28k,40.5778,-111.667,7/25/2020
+51739,UT,Springville,Kat'cina Mosa 100K Mountain Run,40.1636,-111.499,8/1/2020
+51821,WY,Lander,Sinks Canyon Rough and Tumble Trail Runs,42.7291,-108.856,6/13/2020
+51825,UT,Syracuse,Antelope Island 50K,41.0239,-112.24,11/9/2019
+51826,UT,Erda,Tooele Turkey Trail Trot 'Til You Drop,40.6241,-112.266,11/28/2019
+51828,UT,Logan,CROWBAR Backcountry Ski Race,41.9521,-111.486,2/8/2020
+51829,UT,Syracuse,Antelope Island Buffalo Run 25K,41.0265,-112.246,3/7/2020
+51832,UT,Syracuse,Antelope Island Buffalo Run,41.025,-112.24,3/20/2020
+51834,UT,Erda,Serengeti Trail Races,40.624,-112.266,4/18/2020
+51836,UT,Ogden,Coldwater Traverse,41.2358,-111.943,4/25/2020
+51837,UT,Draper,South Mountain Half Marathon,40.4952,-111.879,4/25/2020
+51838,ID,Pocatello,Over the Top Trail Race,42.8537,-112.446,5/9/2020
+51841,ID,Pocatello, Scout Mountain Ultras,42.7285,-112.416,6/5/2020
+51843,,Multiple Cities,Grand Slam of Ultrarunning Series,41.0352,-111.939,6/6/2020
+51846,UT,Draper,Corner Canyon Half Marathon,40.5062,-111.847,6/13/2020
+51848,UT,Logan,Logan Peak Trail Run,41.728,-111.799,6/20/2020
+51849,UT,Tooele,White Pine Solstice Runs,40.4872,-112.194,6/20/2020
+51857,WY,Afton,El Vaquero Loco,42.6379,-110.817,8/1/2020
+51859,UT,Eden,"Skyline Mountain Half, Marathon, 55K",41.2989,-111.813,8/8/2020
+51860,UT,Bountiful,Elephant Rock Trail Run,40.8641,-111.837,8/8/2020
+51861,WY,Hoback,Wyoming Range 100-Mile Endurance Run,43.3011,-110.779,8/21/2020
+51862,UT,Draper,Corner Canyon Marathon & Relay,40.5247,-111.864,8/29/2020
+51863,UT,Kaysville,Wasatch 100,41.053,-111.903,9/11/2020
+51864,ID,Preston,3 Bears Trail Races,42.1389,-111.695,9/11/2020
+51866,UT,Logan,The Bear,41.7262,-111.799,9/25/2020
+51867,UT,South Jordan,Jordan River Half Marathon,40.5527,-111.914,9/26/2020
+51868,UT,Sandy,Dimple Dell Half Marathon,40.5665,-111.875,10/10/2020
+51870,ID,Boise,Turkey Trot Relay,43.6098,-116.214,11/23/2019
+51871,ID,Boise,TDDA!,43.6157,-116.184,11/28/2019
+51872,ID,Caldwell,Ugly Sweater 5K,43.6768,-116.696,12/14/2019
+51879,ID,Melba,Wilson Creek Frozen 50K,43.3486,-116.714,1/18/2020
+51880,ID,Eagle,Pulse Endurance Runs,43.6838,-116.397,3/19/2020
+51883,ID,Midvale,Weiser River 50k Ultra & Relay,44.4713,-116.735,4/25/2020
+51892,OR,Sumpter,Elkhorn Crest 50,44.7416,-118.198,7/25/2020
+51897,WA,Plain,UPWC  - Spider on Steriods,48.0265,-120.829,12/31/2019
+51898,WA,Loomis,UPWC - Windy Peak,48.8547,-119.946,12/31/2019
+51899,WA,Loomis,UPWC - Ben & Kevin’s Excellent Pasayten Adventure,48.9079,-119.902,12/31/2019
+51900,WA,Mazama,UPWC - Buckskin Ridge,48.7321,-120.675,12/31/2019
+51901,WA,Mazama,UPWC - ShellRockin' Loop,48.7322,-120.668,12/31/2019
+51903,WA,Chiwaukum,UPWC - Big Jim and the Chiwaukum,47.6904,-120.736,12/31/2019
+51904,WA,Republic,UPWC - The Kettle Crest,48.6482,-118.738,12/31/2019
+51905,WA,Richland,Badger Mountain Challenge,46.2381,-119.307,3/27/2020
+51907,WA,Quincy,Ancient Lakes Trail Run,47.1603,-119.981,4/4/2020
+51908,WA,Ellensburg,Yakima Skyline Rim 50K,46.8556,-120.483,4/18/2020
+51909,WA,Kennewick,Run with the Goats,46.207,-119.282,4/18/2020
+51910,WA,Ellensburg,Yakima Skyline Rim 25K,46.8556,-120.483,4/19/2020
+51911,BC,Kelowna,Nimble Bear,49.887,-119.556,4/25/2020
+51912,WA,Cle Elum,Twilight 12 Hour,47.1566,-120.807,4/25/2020
+51913,WA,Wenatchee,"Horse Lake 25K, 7-Mile and 5-Mile Trail Runs",47.4629,-120.371,5/9/2020
+51914,WA,Winthrop,Sun Mountain 50 Mile,48.4645,-120.252,5/9/2020
+51915,WA,Winthrop,Sun Mountain 50k,48.4628,-120.261,5/16/2020
+51916,WA,Winthrop,Sun Mountain 25K and 1K,48.4636,-120.26,5/17/2020
+51917,BC,Kelowna,Wild Horse Traverse,49.7852,-119.561,5/30/2020
+51920,BC,Summerland,McLennan's Grit 12-hour Ultra Trail Run & Relay,49.5839,-119.732,6/20/2020
+51922,BC,Silver Star Mountain,Slay the Dragon,50.3596,-119.059,6/27/2020
+51924,WA,Wenatchee,Devil's Gulch,47.2924,-120.4,7/10/2020
+51925,WA,Cle Elum,Teanaway County 100 Preview Weekend,47.1912,-120.818,7/10/2020
+51927,BC,Vernon,Soup 2 Nutz,50.3598,-119.059,7/18/2020
+51931,WA,Richland,Sole Survivor,46.2575,-119.287,9/12/2020
+51933,WA,Leavenworth,Plain,47.8177,-120.715,9/19/2020
+51934,BC,Vernon,Freaky Creeky 50 & 100,50.2042,-119.282,9/19/2020
+51935,BC,Vernon,Aqua Terra,50.2047,-119.28,9/20/2020
+51936,WA,Stehekin,Stehekin,48.3093,-120.656,9/23/2020
+51937,WA,Oroville,Whistler Canyon Trail 50,48.9022,-119.426,9/26/2020
+51938,WA,Twisp,Sawtooth Backcountry,48.2055,-120.194,10/2/2020
+51939,BC,Kelowna,Wandering Moose,49.8121,-119.443,10/3/2020
+51940,WA,Liberty,The Golden 6 Hour,47.3354,-120.579,10/10/2020
+51959,UT,Wendover,Salt Flats Endurance Runs,40.762,-113.896,5/1/2020
+51978,UT,Beaver,Tushars Mountain Runs,38.333,-112.374,8/1/2020
+52213,NV,Logandale,Valley of Fire Backcountry,36.5935,-114.527,11/16/2019
+52215,UT,St. George,The Capstone 50K,37.0724,-113.614,12/7/2019
+52219,AZ,Littlefield,Grandmaster Ultras,36.9008,-113.936,2/7/2020
+52223,UT,Ivins,Red Mountain,37.1608,-113.685,3/7/2020
+52228,NV,Mesquite,Flat Top Mesa Endurance Run,36.805,-114.139,3/21/2020
+52260,AZ,Vail,Colossal-Vail 50/50,32.0498,-110.638,11/9/2019
+52261,AZ,Mesa,Pass Mountain,33.4792,-111.619,11/16/2019
+52262,AZ,Mesa,Punisher Night Runs,33.4792,-111.619,11/16/2019
+52263,AZ,Buckeye,Fat Ox,33.3951,-112.478,11/29/2019
+52264,AZ,Fountain Hills,McDowell Mountain Frenzy,33.6674,-111.7,12/7/2019
+52265,AZ,Fort McDowell,Mayhem Night Runs,33.6674,-111.698,12/7/2019
+52266,AZ,Fountain Hills,Frenzy Hills Rides,33.6042,-111.726,12/8/2019
+52267,AZ,Phoenix,Desert Solstice,33.5027,-112.073,12/14/2019
+52268,AZ,Phoenix,Across the Years,33.5138,-112.293,12/28/2019
+52272,AZ,Queen Creek,San Tan Scramble,33.1677,-111.636,1/4/2020
+52273,AZ,Queen Creek,DRT Spring Series Pass,33.1536,-111.648,1/4/2020
+52275,AZ,Superior,TPK Endurance,33.2937,-111.095,1/10/2020
+52276,AZ,Goodyear,Coldwater Rumble,33.3702,-112.373,1/18/2020
+52277,AZ,Oracle,AZT Oracle Rumble,32.6103,-110.74,1/25/2020
+52278,AZ,Cave Creek,Elephant Mountain,33.8288,-112.004,2/1/2020
+52279,AZ,Fountain Hills,Pemberton Trail,33.6904,-111.718,2/8/2020
+52280,AZ,Mayer,Black Canyon Ultras,34.3488,-112.16,2/15/2020
+52281,AZ,Fountain Hill,Stoneman Trail Run,33.6642,-111.747,2/22/2020
+52282,AZ,Sonoita,Old Pueblo Endurance Runs,31.7387,-110.687,3/7/2020
+52283,AZ,Waddell,Mesquite Canyon,33.6046,-112.504,3/7/2020
+52284,AZ,Fountain Hills,Snakebite,33.6594,-111.773,3/8/2020
+52285,AZ,Morristown,Dam Good Run,33.9223,-112.316,3/22/2020
+52286,AZ,Phoenix,Crown King Scramble,33.9055,-112.309,3/28/2020
+52287,AZ,Mesa,Tonto Mountain,33.4152,-111.831,4/4/2020
+52288,AZ,Prescott,Whiskey Basin Trail Runs,34.6208,-112.567,4/18/2020
+52289,AZ,Queen Creek,Sinister Night Rides,33.1686,-111.634,4/24/2020
+52290,AZ,Pine,Zane Grey Highline Trail 100K,34.3742,-111.443,4/25/2020
+52291,AZ,Queen Creek,Sinister Night Runs,33.1681,-111.635,4/25/2020
+52292,AZ,Multiple Cities,Insomniac Night Trail Run Series,33.1679,-111.636,4/25/2020
+52293,AZ,Fort McDowell,Adrenaline Night Rides,33.6042,-111.726,5/15/2020
+52294,AZ,Fountain Hills,Adrenaline Night Runs,33.6674,-111.698,5/16/2020
+52295,AZ,Avondale,Hypnosis Night Rides,33.4356,-112.35,6/19/2020
+52296,AZ,Avondale,Hypnosis Night Runs,33.3662,-112.315,6/20/2020
+52297,AZ,Waddell,Vertigo Night Rides,33.5758,-112.45,8/14/2020
+52298,AZ,Waddell,Vertigo Night Runs,33.567,-112.498,8/15/2020
+52299,AZ,Fountain Hills,Jangover Night Rides,33.6042,-111.726,9/25/2020
+52300,AZ,Willcox,Boulder Dash 13K/30K,31.9951,-109.44,10/17/2020
+52340,AZ,Flagstaff,Blackout Night Runs,35.1448,-111.691,6/12/2020
+52341,AZ,Flagstaff,Flagstaff Extreme Big Pine,35.1448,-111.691,6/13/2020
+52352,NM,Las Cruces,Sierra Vista Trail Runs,32.3185,-106.632,2/29/2020
+52387,TX,El Paso,Franklin Mountains Trail Run,31.8559,-106.493,11/8/2019
+52393,TX,El Paso,The Franklins,31.8437,-106.491,2/5/2020
+52394,TX,El Paso,Lone Star 100,31.8559,-106.493,2/8/2020
+52423,NV,Las Vegas,Trails of Glory,36.0111,-115.431,11/9/2019
+52424,NV,Beatty,Beatty's Backyard Ultra,36.9086,-116.759,11/9/2019
+52426,NV,Las Vegas,Happy Hippie Harvest Run,36.302,-115.25,11/23/2019
+52427,NV,Henderson,Black Mountain Friday,35.9396,-115.077,11/29/2019
+52428,CA,Ridgecrest,Over The Hill Track Club High Desert 50K,35.5676,-117.67,12/1/2019
+52430,NV,Las Vegas,Resolution Run,36.1808,-115.275,12/31/2019
+52431,NV,Las Vegas,Revolution Run,36.1808,-115.275,1/1/2020
+52432,CA,Joshua Tree,Rotten Egg,34.1384,-116.332,1/18/2020
+52433,CA,Yermo,Calico Trail Run,34.9421,-116.867,1/26/2020
+52436,NV,henderson,Jackpot Ultra Running Festival,36.0362,-115.054,2/14/2020
+52439,NV,Las Vegas,Trail Trashed Ultra,36.0221,-115.02,3/7/2020
+52441,NV,Boulder City,"Blood, Sweat & Beers - NV",35.9836,-114.862,3/28/2020
+52442,CA,Mountain Center,Beyond Limits Ultra,33.6008,-116.597,4/2/2020
+52445,CA,Hemet,Sisyphus Ultra Challenge,33.7423,-116.857,4/10/2020
+52447,CA,Inyokern,Run with the Burros,35.6709,-117.872,4/18/2020
+52448,CA,"Joshua Tree, CA",4 Hours and 20 Minutes of Joshua Tree,34.1391,-116.333,4/20/2020
+52449,CA,Lone Pine,Wild Wild West Marathon And Ultras,36.5637,-118.129,5/2/2020
+52450,NV,Henderson ,Flight of Fire,36.0749,-115.06,5/2/2020
+52451,NV,Henderson,Night of Fire,36.1737,-115.106,5/2/2020
+52452,CA,Mount Baldy ,Baldy Marathons CA,34.235,-117.659,5/9/2020
+52453,NV,Mt. Charleston,Sawmill Relay,36.3569,-115.639,6/6/2020
+52454,NV,Boulder City,Bootleg Beatdown,35.9833,-114.862,6/20/2020
+52455,NV,Las Vegas,Three Degrees of Hell,36.4248,-114.718,7/10/2020
+52457,CA,Wrightwood,Angeles Crest 100 Mile Endurance Run,34.3605,-117.633,8/1/2020
+52458,CA,,HIGHLANDER 100 - There can be only 1,34.2684,-117.625,9/26/2020
+52459,NV,Boulder City,Bootlegger 25k/50k,35.9811,-114.86,11/7/2020
+52460,CA,Healdsburg,Runner Reboot Camp,38.7483,-123.122,11/8/2019
+52461,CA,Casto Valley,Lake Chabot,37.7173,-122.104,11/9/2019
+52462,CA,Stinson Beach,Mt. Tam Trail Run,37.8984,-122.64,11/9/2019
+52463,CA,Sacramento,Sacfit Point-to-Point Marathon Training Run,38.578,-121.357,11/16/2019
+52464,CA,Redding,"Two Peaks 50m,50k,30k,10k",40.554,-122.476,11/16/2019
+52465,CA,Newcastle,Meat Grinder,38.8189,-121.088,11/23/2019
+52466,CA,San Jose ,Zoom Turkey Trot,37.2856,-121.81,11/28/2019
+52467,CA,Cool,Run Hunger Off the Divide 5k/10 Run,38.8731,-121.022,11/28/2019
+52468,CA,Mill Valley,Quad Dipsea,37.9052,-122.553,11/30/2019
+52469,CA,Woodside,Mountain Brow House 50K,37.4501,-122.338,11/30/2019
+52470,CA,Walnut Creek,Coastal Frequent Runner & Group Packages,37.9101,-122.065,12/1/2019
+52471,CA,Friant,San Joaquin River Trail 50k & 100k Run,37.0094,-119.638,12/7/2019
+52472,CA,San Rafael,Peacock Gap Trail Run,38.0056,-122.497,12/7/2019
+52473,CA,San Francisco,Hunter S. Thompson Fear & Loathing,37.7544,-122.448,12/8/2019
+52474,CA,Sacramento,Crocker/Riverside Running Club - Fall 2019,38.5529,-121.505,12/8/2019
+52475,CA,Sacramento,Buffalo Bash,38.5816,-121.491,12/8/2019
+52476,CA,Sausalito,Rodeo Beach Trail Run,37.8318,-122.54,12/14/2019
+52477,NV,Carson City,Running With Rudolph,39.1857,-119.791,12/14/2019
+52478,CA,Auburn,Foresthill Uphill Challenge 1 Mile,38.9163,-121.035,12/14/2019
+52479,CA,Folsom,Snowberry Creek,38.6779,-121.191,12/14/2019
+52480,CA,Fremont,ZombieRunner Quarry Lakes,37.5795,-122.007,12/15/2019
+52481,US,Anywhere,Pacific Coast Trail Runs - Virtual Trail Racing,37.7749,-122.419,12/15/2019
+52482,CA,Redwood City,Woodside Ramble,37.4363,-122.299,12/21/2019
+52483,CA,Soda Springs,Tahoe Mt. Sports Holiday Sprint,39.3333,-120.351,12/21/2019
+52484,CA,Soda Springs,Snowshoe Thompson US Ski and Snowboard NRL,39.3333,-120.351,12/22/2019
+52485,CA,Soda Springs,Snowshoe Thompson- Citizen's Race,39.3333,-120.351,12/22/2019
+52486,CA,San Francisco,New Year's One Day,37.8047,-122.464,12/31/2019
+52487,CA,Oakland,Run Your First,37.786,-122.224,12/31/2019
+52488,CA,Sacramento,Buffalo Chips Running Club Membership,38.5816,-121.494,1/1/2020
+52489,CA,Redding,Clikapudi Trail Runs,40.7484,-122.211,1/1/2020
+52490,NV,Carson City,Wild Winter Round Up,39.2024,-119.711,1/4/2020
+52491,CA,Soda Springs,10th Mountain Division Biathlon,39.3304,-120.354,1/5/2020
+52492,CA,Stinson Beach,Steep Ravine Trail Run,37.9005,-122.644,1/11/2020
+52493,CA,Pacifica,Pacifica Foothills Trail Run,37.5806,-122.476,1/11/2020
+52494,CA,Auburn,One day in Auburn,38.8945,-121.068,1/11/2020
+52496,CA,Soda Springs,Paco's Freestyle Citizen's Race,39.3196,-120.435,1/12/2020
+52497,CA,Woodside,Crystal Springs Trail Run - Winter,37.436,-122.299,1/19/2020
+52498,CA,Stinson Beach,Eldrith,37.9041,-122.553,1/25/2020
+52499,CA,Sacramento,Jed Smith,38.5642,-121.382,2/1/2020
+52500,CA,Foresthill,Foresthill Divide Loop 30K,38.9735,-120.954,2/1/2020
+52501,CA,Rodeo Beach,Golden Gate Trail Run - Winter,37.8302,-122.537,2/8/2020
+52502,NV,Carson City,Love Can Be Cold,39.1333,-119.74,2/8/2020
+52503,CA,Auburn,FOURmidable,38.887,-121.069,2/15/2020
+52504,CA,Pacifica,Montara Mountain Trail Run,37.5736,-122.472,2/16/2020
+52506,CA,Soda Springs,President's Cup,39.3333,-120.351,2/17/2020
+52507,CA,Castro Valley,Chabot/Redtail Ridge Trail Run,37.717,-122.105,2/22/2020
+52508,CA,Sonora,Dragoon Gulch Run,37.9829,-120.382,2/23/2020
+52509,CA,Palo Alto,Big Bloops Ultra,37.4358,-122.1,2/28/2020
+52510,CA,Coloma,Salmon Falls 50K,38.8105,-120.91,2/29/2020
+52511,CA,Los Gatos,"Terrible, Horrible, No Good, Very Bad Day 50k",37.2002,-121.98,2/29/2020
+52512,CA,Cool,Way Too Cool,38.888,-121.019,3/7/2020
+52513,NV,Carson City,March Mudness,39.1637,-119.788,3/7/2020
+52514,CA,Auburn,Chanoko Trail Runs,38.7428,-121.152,3/7/2020
+52515,CA,Sausalito,Marin Ultra Challenge,37.8336,-122.476,3/14/2020
+52516,CA,Cool,Pioneer Spirit trail race,38.888,-121.018,3/14/2020
+52517,CA,Fremont,Zoom St. Patrick's Day,37.5795,-122.007,3/15/2020
+52518,CA,San Francisco,Sports Basement San Francisco,37.8058,-122.449,3/21/2020
+52519,CA,Angel Island,Zoom Angel Island Run,37.8665,-122.436,3/28/2020
+52520,CA,Auburn,Knickerbocker Canyon Trail Run,38.8892,-121.07,3/28/2020
+52521,CA,Folsom,American River,38.7179,-121.1,4/4/2020
+52522,CA,Redwood City,Woodside/Purisima Creek Crossover,37.4416,-122.293,4/5/2020
+52523,CA,Briceburg,The Merced Canyon Endurance Runs,37.6048,-119.967,4/5/2020
+52524,CA,Healdsburg,Lake Sonoma,38.7095,-123.01,4/11/2020
+52525,CA,Oakland,Redwood Trail Run (Spring),37.8187,-122.181,4/12/2020
+52526,CA,Folsom,Folsom Lake Trail Run,38.6916,-121.132,4/18/2020
+52527,CA,Casto Valley,SPASM Lake Chabot Trail Run,37.7151,-122.102,4/18/2020
+52528,CA,Calistoga,Napa Valley Endurance Run,38.5893,-122.578,4/18/2020
+52529,CA,Forest Ranch,Loco Scavenger Hunt 5k,39.8738,-121.681,4/18/2020
+52530,CA,Forest Ranch,Forest Ranch Four,39.9475,-121.583,4/19/2020
+52531,CA,Foresthill,The Canyons Endurance Runs,39.0207,-120.813,4/25/2020
+52532,CA,Chico,"Big Day 5k COLOR Run, 3k Walk & Kid's Dash",39.7923,-121.893,4/25/2020
+52533,CA,Castella,Castle Crags 50k/35k/10k,41.152,-122.32,4/25/2020
+52534,CA,San Jose,Quicksilver Endurance Runs,37.1742,-121.825,5/9/2020
+52535,CA,Berkeley,Grizzly Peak Trail Run,37.8928,-122.242,5/9/2020
+52536,CA,Susanville,Paiute Meadows Trail Run,40.4328,-120.668,5/9/2020
+52537,CA,Rodeo Beach,San Francisco 50/50 Endurance Runs,37.8327,-122.538,5/16/2020
+52538,CA,Redding,The Chase,40.5865,-122.392,5/16/2020
+52539,CA,Fremont,Ohlone,37.5044,-121.908,5/17/2020
+52540,CA,Foresthill,Western States Training Camp - Memorial Weekend,39.0207,-120.813,5/23/2020
+52543,CA,Bishop,Bishop High Sierra Ultras,37.3781,-118.493,5/30/2020
+52544,CA,McCloud ,The 4MPH Challenge,40.65,-122.593,5/30/2020
+52545,CA,Pacifica,Devil's Slide Run,37.5786,-122.476,5/30/2020
+52546,CA,Truckee,Truckee Running Festival and Waddle Ranch Trail 1/2 Marathon,39.3276,-120.153,5/31/2020
+52547,CA,Fish Camp,Shadow of the Giants,37.4782,-119.639,6/6/2020
+52548,CA,Butte Meadows,The Loco Go Big or Go Home Challenge,40.0808,-121.551,6/6/2020
+52549,CA,Emerald Bay,Lake Tahoe Rubicon Trail 1/2,38.9566,-120.083,6/7/2020
+52550,CA,Lake Tahoe,The Broken Arrow Skyrace,39.1961,-120.236,6/19/2020
+52552,CA,Mt Shasta,Mt Shasta 50m/50k/30k/10k,41.3338,-122.308,6/20/2020
+52553,CA,Tahoe City,Burton Creek Trail Running Festival,39.1722,-120.139,6/21/2020
+52555,CA,Squaw Valley,Western States,39.1954,-120.236,6/27/2020
+52556,CA,Stinson Beach,La Sportiva Table Rock,37.8984,-122.64,6/27/2020
+52557,CA,Lake Tahoe,Run to the Beach,39.2488,-120.053,7/4/2020
+52558,CA,Fremont,Zoom Firecracker Run,37.5739,-122.004,7/5/2020
+52559,CA,Yosemite National Park,Yosemite Backcountry,37.7497,-119.799,7/7/2020
+52760,CA,Los Angeles,Ultra Ladies Personal Coaching,34.1314,-118.553,11/8/2019
+52761,CA,Los Angeles,Griffith Park Trail Run,34.1206,-118.291,11/9/2019
+52762,CA,Brea,Chino Hills Trail Run Series Fall,33.9202,-117.827,11/9/2019
+52763,CA,Cleveland National Forest,Chimera 100M/K and Old Goat Races,33.6111,-117.511,11/16/2019
+52764,CA,Santa Barbara,Santa Barbara Red Rock Trail Run,34.5465,-119.791,11/23/2019
+52765,CA,Agoura,No Name 5030,34.1543,-118.734,11/23/2019
+52766,CA,Del Mar,Best of San Diego 100 Miler,32.9346,-117.26,11/23/2019
+52767,CA,"CA-2, La Cañada Flintridge",SISU 24 Hour Ultra,34.3475,-117.984,11/30/2019
+52769,CA,Malibu,Ray Miller 50/50,34.0836,-119.036,12/7/2019
+52770,CA,Los Osos,Spooner's Cove,35.2576,-120.856,12/7/2019
+52771,CA,Julian,Anza Borrego Cuyamaca 50 Mile Run,32.9785,-116.525,12/7/2019
+52773,CA,San Diego,Dirty December Poker Run,32.93,-116.969,12/14/2019
+52774,CA,San Diego,North Park Santa Run,32.755,-117.137,12/15/2019
+52775,CA,Sierra Madre,"Mt. Wilson ""Make it a Double""",34.1694,-118.049,12/28/2019
+52777,CA,Santa Monica,Santa Monica Trail Runners Club,34.0541,-118.56,1/1/2020
+52778,CA,San Luis Obispo,La Cuesta Ranch Trail Run,35.2934,-120.644,1/4/2020
+52779,CA,Malibu,Sean O'Brien 50k/26.2/30k,34.098,-118.731,1/11/2020
+52780,CA,Escondido,San Diego 50 and Trail Marathon,33.0918,-116.956,1/18/2020
+52781,CA,Bakersfield,Celtic Winter Classic 24 Hour Run,35.4005,-118.932,1/18/2020
+52783,CA,Agoura Hills,Paramount Ranch Trail Runs,34.1188,-118.758,1/25/2020
+52785,CA,Malibu,Sean O'Brien 100K/50M,34.005,-118.81,2/8/2020
+52786,CA,SAN DIEGO,Happy Chinese New Year 50 Miler,32.941,-117.136,2/8/2020
+52787,CA,Escondido,The Ranch 50k,33.1666,-117.051,2/22/2020
+52788,CA,Cerritos,Orange Curtain,33.8531,-118.101,2/28/2020
+52790,CA,Poway,Sycamore Canyon 100k / 50K / Half,32.9298,-116.97,2/29/2020
+52791,CA,Lake Cuyamaca,San Diego Pirate's Cove 6/12/24 hour Run/Walk,32.9907,-116.578,3/6/2020
+52792,CA,Calabasas,Singletrack Stampede,34.134,-118.702,3/7/2020
+52793,CA,Los Angeles,Griffith Park Trail Marathon,34.1202,-118.292,3/14/2020
+52794,CA,Julian,Old West Trail Runs,33.0603,-116.425,3/14/2020
+52795,,Tijuana,Ultramaraton Baja Trail 50K y Carrera 30K,32.4052,-116.926,3/15/2020
+52796,CA,Santa Barbara,Nine Trails 35 Mile Endurance Run,34.4534,-119.73,3/21/2020
+52800,CA,San Juan Capistrano,Ramblas Run,33.4738,-117.645,4/4/2020
+52801,CA,Santa Clarita,Santa Clarita Ultra & Trail Runs,34.3585,-118.556,4/4/2020
+52803,CA,Julian,Oriflamme,32.9779,-116.524,4/11/2020
+52806,CA,Lake Hughes,Leona Divide,34.6729,-118.44,4/25/2020
+52808,CA,San Diego,PQ & GZ Trail Marathon,32.9409,-117.136,5/2/2020
+52809,CA,Newport Beach,Whoos in El Moro Trail Races,33.5667,-117.821,5/9/2020
+52811,CA,Cleveland National Forest,PCT 50,32.7431,-116.481,5/16/2020
+52812,CA,Riverside,Nanny Goat 12/24/100,33.9215,-117.4,5/23/2020
+52813,CA,Glendale,Mount Lukens Trail Runs,34.2495,-118.253,5/30/2020
+52814,CA,Lake Cuyamaca,San Diego 100,32.9857,-116.583,6/5/2020
+52815,CA,San Diego,Black Mountain 50K,32.9714,-117.119,6/20/2020
+52817,CA,Pine Valley,Noble Canyon,32.8404,-116.53,9/19/2020
+52819,CA,Monrovia,Monrovia Canyon Trail Runs,34.175,-117.987,10/3/2020
+52820,CA,San Diego,San Diego Ultra Slam,32.7157,-117.161,10/5/2020
+52821,CA,OJAI,C2M,34.448,-119.243,10/31/2020
+54619,CA,Salinas,Fort Ord Trail Run,36.5881,-121.751,2/1/2020
+54620,CA,Salinas,Ordnance 100K,36.5877,-121.751,2/1/2020
+54712,CA,Castro Valley,Skyline 50k Endurance Run,37.7284,-122.114,8/2/2020
+54713,CA,Castro Valley,Dick Collins 50mile/Bay Ridge 100k,37.7105,-122.055,9/26/2020
+55022,CA,Auburn,She Rocks the Trails,38.8894,-121.07,7/11/2020
+55023,CA,North Lake Tahoe,Big Chief 50K,39.328,-120.183,7/12/2020
+55320,NV,Carson City,Tahoe Rim Trail Endurance Runs,39.1069,-119.912,7/18/2020
+55321,CA,Sausalito,Rodeo Valley Trail Run,37.8305,-122.537,7/18/2020
+55323,,Various Locations,Triple Crown of 200s,38.9501,-119.952,8/7/2020
+55395,CA,Mendocino,Mendocino Coast 50K,39.3023,-123.787,4/18/2020
+56221,CA,Sinkyone Wilderness State Park,Lost Coast Trail,40.3021,-124.354,7/1/2020
+56825,OR,Ashland,Bandersnatch 5K and Lewis Loop 10 Miler,42.1795,-122.717,11/16/2019
+56835,OR,Trail,Lost Creek Trail Run,42.678,-122.636,5/2/2020
+56839,OR,Klamath Falls,Spence Mountain Run,42.3789,-121.971,5/30/2020
+56843,OR,Ashland,Siskiyou Out Back,42.0805,-122.706,7/11/2020
+56844,CA,Arcata,California Untamed 330,40.8665,-124.083,7/17/2020
+56845,CA,Mendocino,Mendocino Running Festival,39.3311,-123.735,8/29/2020
+56846,CA,Butte Meadows,The Little Loco Relay,40.0815,-121.555,9/12/2020
+56847,OR,Gold Beach,Secret Beach 100K / 50M,42.4101,-124.334,10/3/2020
+56848,CA,Kenwood,SUGARHOOD,38.4588,-122.551,11/14/2020
+57323,OR,Paisley,Wild Outback,42.6167,-120.607,6/6/2020
+57342,CA,Auburn,Twilight Trail Adventure Run,38.8894,-121.07,8/8/2020
+57343,NV,Lake Tahoe,Marlette 50K and 10 Miler,39.1063,-119.915,8/9/2020
+57344,NV,Incline Village,XTERRA Lake Tahoe 5K & 10K,39.2419,-119.945,8/15/2020
+57345,CA,Truckee,Castle Peak 100k,39.3776,-120.162,8/22/2020
+57346,CA,Richmond,Zoom Dynamite Run,37.9932,-122.353,8/29/2020
+57347,OR,Roseburg,NUT,43.3002,-122.183,8/29/2020
+57392,OR,Bend,Bend Trail Series,44.0582,-121.315,6/4/2020
+57414,CA,Homewood,Tahoe 200 Endurance Run,39.246,-119.958,9/11/2020
+57415,CA,Homewood,Tahoe 200 Running Festival,39.0863,-120.161,9/11/2020
+57418,CA,Lake Tahoe,Emerald Bay Trail Run,38.9655,-120.079,9/13/2020
+57419,CA,Foresthill,Overlook Endurance Runs,39.0208,-120.813,9/19/2020
+57420,CA,Lincoln,Ride To Walk Endurance Race,38.885,-121.264,9/19/2020
+57421,OR,Oakridge,Oakridge Triple Summit Challenge,43.7378,-122.456,9/25/2020
+57424,OR,Oakridge,Willamette Headwaters Endurance Events (WHEE Run),43.6637,-122.43,10/3/2020
+57425,OR,Bend,Bend Bigfoot,43.9965,-121.396,10/4/2020
+57426,CA,Granite Bay,Rio Del Lago,38.7207,-121.17,11/7/2020
+57541,HI,Honolulu,HURT 100,21.3164,-157.828,1/18/2020
+57543,WA,Klickitat,Klickitat Trail Run,45.818,-121.151,11/9/2019
+57544,OR,Terrebonne,Run The Rock,44.3682,-121.141,11/9/2019
+57546,OR,Madras,Canyon Rumble Frozen Half,44.6224,-121.131,12/7/2019
+57547,WA,Ravensdale,Pigtails Run,47.3751,-121.971,12/14/2019
+57550,WA,Mount Rainier National Park,UPWC - Mother Mountain/Northern Loop,46.9328,-121.863,12/31/2019
+57551,WA,Snoqualmie,UPWC - Alpine Lakes Grand Tour,47.4454,-121.423,12/31/2019
+57552,WA,Mount Rainier National Park,UPWC - Chinook Pass,46.8719,-121.515,12/31/2019
+57553,WA,Skykomish,UPWC - La Bohn Traverse,47.6652,-121.288,12/31/2019
+57554,WA,Cougar,UPWC - Loowit Trail,46.1463,-122.182,12/31/2019
+57555,WA,Ashford,UPWC - Owyhigh Lakes Loop,46.8884,-121.611,12/31/2019
+57557,WA,Olympia,Capitol Peak Mega Fat Ass,46.9257,-123.059,1/18/2020
+57558,WA,West Seattle,West Seattle Beach Run,47.5259,-122.395,2/2/2020
+57559,OR,Newport,Run Love Run,44.6038,-124.043,2/8/2020
+57560,OR,Gaston,Hagg Mud 50K/25K,45.4875,-123.231,2/15/2020
+57561,WA,Montesano,Run Forest Run,46.9952,-123.595,2/15/2020
+57562,WA,Dupont,Dupont Trail Marathon,47.0966,-122.635,3/7/2020
+57563,OR,Florence,Siuslaw Dunes,43.9308,-124.112,3/7/2020
+57564,WA,Longview,Pacific Rim One Day Run,46.1378,-122.95,3/21/2020
+57565,OR,Monroe,Alsea Falls Spring Fling,44.3289,-123.498,3/21/2020
+57572,WA,Olympia,Capitol Peak,46.9388,-123.13,4/25/2020
+57573,WA,Trout Lake,Trout Lake Run,45.9889,-121.516,4/25/2020
+57574,OR,Tillamook State Forest,Tillamook Burn,45.7064,-123.333,4/25/2020
+57576,OR,Sisters,Peterson Ridge Rumble,44.2924,-121.571,4/26/2020
+57577,WA,Snoqualmie,Mt Si Relay & Trail Runs,47.5249,-121.812,4/26/2020
+57580,OR,Portland,Portland Trail Series - Spring,45.5409,-122.726,5/6/2020
+57581,OR,Corvallis,McDonald Forest,44.6599,-123.238,5/9/2020
+57583,OR,Terrebonne,Smith Rock Ascent,44.3676,-121.139,5/16/2020
+57585,OR,Portland,Stumptown Trail Runs,45.5406,-122.726,5/23/2020
+57586,OR,Prineville ,Ochoco Trail Runs,44.4399,-120.32,5/24/2020
+57590,WA,Vashon Island,Vashon Island Ultramarathon & Trail Run,47.4342,-122.464,6/6/2020
+57592,OR,Parkdale,Wy'east Wonder,45.2944,-121.585,6/13/2020
+57593,WA,Trout Lake,Wild Woman Trail Marathon,46.011,-121.53,6/20/2020
+57594,OR,Blodgett,Marys Peak Trail Run,44.5903,-123.529,6/20/2020
+57595,WA,Olympia,Millersylvania Trail Races,46.9091,-122.91,6/20/2020
+57596,OR,Blue River ,Old Cascadia,44.4159,-122.012,6/20/2020
+57597,WA,Enumclaw,SISU 24 Ultra PNW,47.0377,-121.561,6/27/2020
+57598,WA,North Bonneville,Strawberry Fields Forever,45.6338,-121.979,6/27/2020
+57601,OR,Clackamas Lake,Mt. Hood 50,45.0896,-121.769,7/11/2020
+57602,WA,Easton,Needles 50k,47.261,-121.181,7/11/2020
+57605,OR,Mt. Hood,Wy’east Howl,45.3318,-121.665,7/25/2020
+57607,WA,Mt. Rainier National Park,The Wonderland - 3 Day Supported Circumnavigation,46.7437,-121.792,7/29/2020
+57608,WA,Cougar,Volcanic 50,46.1306,-122.171,8/3/2020
+57610,WA,Mount St. Helens,Bigfoot 200 Endurance Run,46.1856,-122.192,8/7/2020
+57611,WA,Cougar,"Bigfoot 100K, 40 mile, 20 mile",46.0515,-122.3,8/7/2020
+57613,OR,Hood River,Post Canyon 50K,45.638,-121.678,8/15/2020
+57617,WA,Toutle,Backcountry Rise,46.2973,-122.267,8/29/2020
+57620,OR,Blue River,McKenzie River Trail Run,44.3408,-122.005,9/12/2020
+57621,OR,Newport,Twisted Pine Trail Runs,44.6012,-124.062,9/12/2020
+57622,WA,Cle Elum,Teanaway Country 100,47.3925,-121.092,9/12/2020
+57624,WA,DuPont,Crazy Owl Endurance Races,47.0966,-122.633,9/17/2020
+57627,WA,North Bend,Cascade Super Ultra,47.4325,-121.766,9/26/2020
+57631,OR,Tillamook,Elk-Kings Trail Races,45.586,-123.561,10/4/2020
+57632,OR,Sisters,Three Sisters Skyline,44.2891,-121.549,10/4/2020
+57633,OR,Yachats,Oregon Coast 50K / 20 Mile,44.3112,-124.105,10/10/2020
+57636,OR,South Beach,DDLM Endurance Run,44.6038,-124.043,10/31/2020
+57646,WA,Quinault,UPWC - Graves Creek,47.5721,-123.57,12/31/2019
+57650,WA,Mukilteo,Gulch Countdown,47.9408,-122.293,1/4/2020
+57651,WA,Kirkland,Bridle Trails Winter Trail Running Festival,47.6548,-122.184,1/11/2020
+57661,WA,Seattle,Cottontail 6 & 12 Hour,47.7125,-122.379,4/11/2020
+57663,WA,Hansville,FCFA/Hansville 100,47.9037,-122.557,4/18/2020
+57673,WA,Bainbridge Island,Battle Point Endurance Run,47.6622,-122.575,5/2/2020
+57677,WA,Seattle,Sri Chinmoy 7 & 13 Hour Solo and Team Ultra,47.6824,-122.257,5/16/2020
+57714,WA,Quilcene,Olympic Mountains,47.9362,-123.054,9/12/2020
+57735,WA,Oak Harbor,Deception Pass 50K,48.3971,-122.654,12/14/2019
+57736,WA,Oak Harbor,Deception Pass 25K,48.3971,-122.654,12/15/2019
+57745,WA,Forks,UPWC - Seven Lakes Loop,47.9763,-124.369,12/31/2019
+57760,WA,Gold Bar,Wallace Falls Trail Run,47.8992,-121.672,4/4/2020
+58264,BC,Thetis Lake,Fleet Diving Unit (Pacific)- Turkey Run,48.4645,-123.468,12/7/2019
+58268,WA,Adventure Blogging Contest,UPWC - Double Desolation Mind/Body Challenge,48.709,-120.978,12/31/2019
+58270,WA,Diablo,UPWC - Devils Dome,48.708,-120.978,12/31/2019
+58273,WA,Shi Shi Beach,UPWC - Olympic Coast Route,48.2752,-124.679,12/31/2019
+58274,WA,Diablo,UPWC - Easy Pass,48.6851,-121.093,12/31/2019
+58282,WA,Diablo,UPWC - Sourdough Sufferfest Mind/Body Challenge,48.7177,-121.145,12/31/2019
+58286,WA,Glacier,UPWC - Baker's Dozen Mind/Body Challenge,48.9095,-121.802,12/31/2019
+58289,WA,Diablo,UPWC - The Purple Rainbow 100k,48.7135,-121.141,12/31/2019
+58293,WA,Orcas Island,Orcas Island 25k,48.6491,-122.842,1/25/2020
+58294,WA,Orcas Island,Orcas Island 50k,48.6497,-122.844,2/1/2020
+58296,WA,Orcas Island,Orcas Island 100 Miler,48.6482,-122.842,2/7/2020
+58299,WA,Eastsound,Hillbillies Trail Camp,48.665,-122.824,2/27/2020
+58301,WA,Bellingham,Chuckanut 50k,48.7138,-122.497,3/21/2020
+58329,WA,Concrete,Mount Baker Ultra,48.5393,-121.746,5/31/2020
+58330,WA,Bellingham,Sucia Island,48.7514,-122.906,6/5/2020
+58333,WA,North Cascades National Park,Desolation Duo,48.6815,-121.097,6/13/2020
+58337,WA,North Cascades National Park,Ross Lake Rally,48.6903,-121.099,6/20/2020
+58346,WA,Beach Camp and Trail Run,Cypress Island,48.5653,-122.702,7/24/2020
+58361,WA,North Cascades National Park,North Cascades Traverse,48.7478,-121.299,9/9/2020
+58460,BC,Victoria,Finlayson Arm,48.464,-123.547,9/11/2020
+59293,BC,Salmon Arm/Sicamous,The Lewiston Ultra - Shuswap,50.6935,-119.212,9/26/2020
+59501,AK,Palmer,Boycott Black Friday,61.6086,-149.09,11/29/2019
+59502,AK,Anchorage,Frosty Bottom Marathon & Half Marathon,61.1541,-150.038,1/11/2020
+59503,AK,Big Lake,Little Su 50K,61.5504,-149.938,2/15/2020
+59504,AK,Big Lake,Susitna 100,61.5503,-149.938,2/15/2020
+59505,AK,Paxson,Denali 135,63.029,-145.496,7/4/2020
+59506,AK,Willow,Hatcher Pass Marathon,61.7741,-149.91,7/11/2020
+59507,AK,Girdwood/Eagle River ,Crow Pass Crossing,61.0285,-149.117,7/18/2020
+59508,AK,Fairbanks,White Mountains 100,65.2124,-148.093,3/22/2020
+59509,AK,Fairbanks,Alaska Endurance Trail Run,64.859,-147.853,6/5/2020
+59512,AK,Fairbanks,Angel Creek 50,64.8764,-146.81,7/11/2020
+59513,YT,Whitehorse,Reckless Raven 50 Ultra and Relay,60.7307,-135.101,6/28/2020
